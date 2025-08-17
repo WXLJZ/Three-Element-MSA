@@ -17,12 +17,11 @@ Each dataset file is in `.json` format with the following key-value:
 | Key            | Description                                                                 |
 |-------------------|-----------------------------------------------------------------------------|
 | **ID**            | Unique identifier for each instance                                         |
-| **Text**          | Original sentence containing metaphorical expression                        |
+| **Input**          | Original sentence containing metaphorical expression                        |
 | **S (Source)**    | Source domain word(s)                                                       |
 | **T (Target)**    | Target domain word(s)                                                       |
-| **Metaphor Type** | Type of metaphor (e.g., structural, ontological, orientational, attributive) |
-| **Polarity**      | Sentiment polarity label (positive, negative, neutral)                      |
-| **C (Carrier)**   | Sentiment carrier (if applicable)                                           |
+| **Type** | Type of metaphor (e.g., Noun, Verb, Attribute) |
+| **Output**      | Sentiment polarity label (positive, negative, neutral)                      |
 
 ---
 
