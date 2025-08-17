@@ -1,0 +1,6887 @@
+[
+    {
+        "id": 1,
+        "instruction": "",
+        "input": "随着夜晚的闷热程度越来越高了，他们一家的忍耐程度也已经到了极点，只看天空公公立刻召唤出来了乌云妹妹，遮掩住了皎洁明媚的月亮和闪闪发光的星星，紧接着只听刮起了“沙沙沙”的风声，大风像一个大巨人，“呼哧呼哧”的喘着气，大风过后，雷霆哥哥、闪电弟弟和雨点姐姐也大摇大摆的登上了“舞台”，先是雷霆哥哥和闪电弟弟演绎了电闪雷鸣，闪电弟弟先是来来了一个“闪电出世”，接着雷霆哥哥配合他发出了“轰隆隆”的巨响，紧接着雨点姐姐就下起了狂风暴雨，雨点“哗啦啦”的下个不停！",
+        "output": "中性",
+        "Source": "巨人",
+        "Target": "大风",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 2,
+        "instruction": "",
+        "input": "右手的食指像一根铜尺似的直按在\"草案\"的第二项上",
+        "output": "中性",
+        "Source": "铜尺",
+        "Target": "右手的食指",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 3,
+        "instruction": "",
+        "input": "在微风的吹拂下，树叶不时地发出沙沙的声音，月亮像是一块沉入了水中的碧玉，随着池水轻轻地晃动着。",
+        "output": "正向",
+        "Source": "碧玉",
+        "Target": "月亮",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 4,
+        "instruction": "",
+        "input": "桥中间竖起两根高高的柱子，像两个巨人耸立在桥上，托起一道高高的横梁，横梁上“浣江桥”三个字在夜色中金光闪闪，熠熠生辉。",
+        "output": "正向",
+        "Source": "巨人",
+        "Target": "柱子",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 5,
+        "instruction": "",
+        "input": "第二天，骂帖又像洪水一样袭来，使我应接不暇——我终于明白要让文章去感染读者的道理。",
+        "output": "负向",
+        "Source": "洪水",
+        "Target": "骂帖",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 6,
+        "instruction": "",
+        "input": "他们多像这默默奉献的小草啊！",
+        "output": "正向",
+        "Source": "草",
+        "Target": "他们",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 7,
+        "instruction": "",
+        "input": "只见他一边“哇哇”叫着，一边像一头愤怒的公牛一样，埋头冲向老爸，想把老爸撞个四仰八叉。",
+        "output": "负向",
+        "Source": "公牛",
+        "Target": "他",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 8,
+        "instruction": "",
+        "input": "科技是照亮人类前行道路的灯塔",
+        "output": "正向",
+        "Source": "照亮人类前行道路的灯塔",
+        "Target": "科技",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 9,
+        "instruction": "",
+        "input": "那花儿红得似火。",
+        "output": "正向",
+        "Source": "火",
+        "Target": "花儿",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 10,
+        "instruction": "",
+        "input": "这些石头蜿蜒盘旋，相互缠绕，中间还有一颗圆圆的石头，看上去就像龙珠，所以当地的人们给它们起了一个美名，叫“双龙戏珠”。",
+        "output": "正向",
+        "Source": "龙珠",
+        "Target": "石头",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 11,
+        "instruction": "",
+        "input": "一走进学校大门，展现在我眼前的是一个个身着美丽衣服的小朋友，在操场两旁还插着五颜六色的旗子，一阵风吹过彩旗就像一个身穿彩色的衣服的姑娘在半空中翩翩起舞。",
+        "output": "正向",
+        "Source": "姑娘",
+        "Target": "彩旗",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 12,
+        "instruction": "",
+        "input": "我更是受尽折磨，记得一次我去饮水机旁接水，由于只顾着看电视，忘了关饮水机了，水接满了，妈妈看见后给我关上了，并像母老虎一样把我骂了一顿，还让我把杯子里的水全喝上，没办法我只好硬着头皮喝了下去，这下可撑坏了我的肚子，以后我再也不敢犯这错误了。",
+        "output": "负向",
+        "Source": "母老虎",
+        "Target": "妈妈",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 13,
+        "instruction": "",
+        "input": "在一个美丽的夜晚，巨大的银河穿过深邃而广阔的天空，从我的头顶倾泻下来，真像一道气势磅礴的瀑布。",
+        "output": "正向",
+        "Source": "瀑布",
+        "Target": "银河",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 14,
+        "instruction": "",
+        "input": "但在雨水充富饶肥沃的库斯科峡谷，印加农民们站住了脚跟",
+        "output": "正向",
+        "Source": "站住了脚跟",
+        "Target": "印加农民们",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 15,
+        "instruction": "",
+        "input": "彩虹宛如一座桥。",
+        "output": "正向",
+        "Source": "桥",
+        "Target": "彩虹",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 16,
+        "instruction": "",
+        "input": "书是人类的雨滴，帮助人们滋润荒凉的沙漠。",
+        "output": "正向",
+        "Source": "人类的雨滴",
+        "Target": "书",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 17,
+        "instruction": "",
+        "input": "而到了村口，她一定像敏感的鹿，迅速地跳下，以免坏了男人的形象。",
+        "output": "正向",
+        "Source": "鹿",
+        "Target": "她",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 18,
+        "instruction": "",
+        "input": "哨兵站在那，仿佛一尊雕塑。",
+        "output": "正向",
+        "Source": "雕塑",
+        "Target": "哨兵站",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 19,
+        "instruction": "",
+        "input": "她的眼睛像黑宝石，圆溜溜的，真可爱。",
+        "output": "正向",
+        "Source": "宝石",
+        "Target": "眼睛",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 20,
+        "instruction": "",
+        "input": "时间像轻盈的蝴蝶逃得很快，飘逸的花香逃得更快，当你听到它们的余音时，已经没有影子了，但它们永远逃不出珍惜，因为珍惜是一切美的归宿。",
+        "output": "中性",
+        "Source": "蝴蝶",
+        "Target": "时间",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 21,
+        "instruction": "",
+        "input": "爱把我们压得喘不过气",
+        "output": "负向",
+        "Source": "压得喘不过气",
+        "Target": "爱",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 22,
+        "instruction": "",
+        "input": "她的眼神坚定而温暖就像冬日里的阳光，带着她的手套我顿时感到一股暖流在我的心中流淌，流入我的大脑，流入我的心房。",
+        "output": "正向",
+        "Source": "阳光",
+        "Target": "眼神",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 23,
+        "instruction": "",
+        "input": "他的一生意义非常，辉煌如黄袍加身。",
+        "output": "正向",
+        "Source": "辉煌",
+        "Target": "他的一生",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 24,
+        "instruction": "",
+        "input": "再向前走是一个碧绿的小湖，一条小鱼从水里腾空而起，晶莹的水珠从上落下，像洒下了一滴滴幸福的泪水。",
+        "output": "正向",
+        "Source": "泪水",
+        "Target": "水珠",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 25,
+        "instruction": "",
+        "input": "周琦简直是火箭的救星",
+        "output": "正向",
+        "Source": "火箭的救星",
+        "Target": "周琦",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 26,
+        "instruction": "",
+        "input": "隐士蝉蜕浊秽之中。",
+        "output": "正向",
+        "Source": "蝉蜕",
+        "Target": "隐士",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 27,
+        "instruction": "",
+        "input": "它像是一条水路，有群山缭绕，山间绿树红花，鸟语花香，江山如画，清澈见底的小河中。",
+        "output": "正向",
+        "Source": "水路",
+        "Target": "它",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 28,
+        "instruction": "",
+        "input": "他感觉那只落到他的肩上大而软和的手融化了他的全身。",
+        "output": "正向",
+        "Source": "融化",
+        "Target": "他的全身",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 29,
+        "instruction": "",
+        "input": "教练把球队带活了",
+        "output": "正向",
+        "Source": "带活",
+        "Target": "球队",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 30,
+        "instruction": "",
+        "input": "一个人走在通向山的羊肠小道中，思绪像羊肠小道一样弯弯曲曲的蔓延，烦恼在一片宁静的山林中以极不和谐的姿态在弥漫。",
+        "output": "中性",
+        "Source": "羊肠小道",
+        "Target": "思绪",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 31,
+        "instruction": "",
+        "input": "书，是我最亲密的朋友，是我最要好的无声老师，它帮助我解决生活与学习上的难题，也给我知识，给我力量，知识就像海洋，无边无际的。",
+        "output": "正向",
+        "Source": "海洋",
+        "Target": "知识",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 32,
+        "instruction": "",
+        "input": "爷爷至今仍存着这样一个念头",
+        "output": "中性",
+        "Source": "存",
+        "Target": "念头",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 33,
+        "instruction": "",
+        "input": "而中考也像一辆车，不同的是它是列车，载着各个奔向不同的人，呼啸而过。",
+        "output": "中性",
+        "Source": "车",
+        "Target": "中考",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 34,
+        "instruction": "",
+        "input": "那些我们不爱的人对我们的爱只停留在表面，很快就会挥发。",
+        "output": "负向",
+        "Source": "挥发",
+        "Target": "我们不爱的人对我们的爱",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 35,
+        "instruction": "",
+        "input": "老百姓们看到了胜利的曙光",
+        "output": "正向",
+        "Source": "曙光",
+        "Target": "胜利",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 36,
+        "instruction": "",
+        "input": "十六岁的许多憧憬，就像一本本文字斑驳的书叠放。",
+        "output": "正向",
+        "Source": "书",
+        "Target": "憧憬",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 37,
+        "instruction": "",
+        "input": "丽莎是一只老虎",
+        "output": "中性",
+        "Source": "老虎",
+        "Target": "丽莎",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 38,
+        "instruction": "",
+        "input": "就这么望着吧，直到把浮世望成眼睫上的尘埃。",
+        "output": "负向",
+        "Source": "眼睫上的尘埃",
+        "Target": "浮世",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 39,
+        "instruction": "",
+        "input": "\"我传给史航，史航新一大脚，进球了3:1，冯战莹像头牛似的到处乱撞，他把我引到那边去接球，然后传球给我爸，直接进球3:2，我们踢到5点半，比分是6：4，我们史航队赢了冯战莹队。\"",
+        "output": "中性",
+        "Source": "牛",
+        "Target": "冯战莹",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 40,
+        "instruction": "",
+        "input": "这架飞机形同大雁。",
+        "output": "正向",
+        "Source": "大雁",
+        "Target": "飞机",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 41,
+        "instruction": "",
+        "input": "太阳像一个大火球，骄阳似火、烈日炎炎。",
+        "output": "负向",
+        "Source": "火球",
+        "Target": "太阳",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 42,
+        "instruction": "",
+        "input": "明溪的美在平时或许体现不出来，不过如果你在清晨五、六点时登上山，站在山顶俯瞰，看那被雨雾缭绕着的明溪，看那一片祥和安静的明溪，那婀娜的模样，就像个少女般秀美。",
+        "output": "正向",
+        "Source": "少女",
+        "Target": "模样",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 43,
+        "instruction": "",
+        "input": "吃了早饭我就迫不及待地跟着妈妈来到田野里只见眼前的稻子金灿灿的像一片金色的海洋。",
+        "output": "正向",
+        "Source": "海洋",
+        "Target": "稻子",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 44,
+        "instruction": "",
+        "input": "他收到一份茶砖作为礼物。",
+        "output": "中性",
+        "Source": "砖",
+        "Target": "茶",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 45,
+        "instruction": "",
+        "input": "我出生在广东的海边，生长在海边，那里的海边和日照的不同，那里有很多婆娑的椰子树，海水里长着成片的红树林，我去过三亚的海边，亚龙湾的海边海浪十分高，似乎像座小山，那里的海水碧蓝碧蓝的，天空湛蓝湛蓝的。",
+        "output": "中性",
+        "Source": "小山",
+        "Target": "海浪",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 46,
+        "instruction": "",
+        "input": "如今，我不再小小，我学会了许多许多，也收获了许多许多，学会了自己努力地拼搏，而不是像糖一样年黏黏地粘爸爸妈妈的身上，汲取他们给予的养分，我做不到，做不到，做不到汲取他们的养分而看着他们一天天的憔悴、苍老。",
+        "output": "负向",
+        "Source": "糖",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 47,
+        "instruction": "",
+        "input": "生命是伟大的，就像泰山上的一棵棵挺拔的苍松。",
+        "output": "正向",
+        "Source": "苍松",
+        "Target": "生命",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 48,
+        "instruction": "",
+        "input": "团团雪花像一个个穿着白色薄纱裙的小姑娘在跳舞。",
+        "output": "正向",
+        "Source": "小姑娘",
+        "Target": "雪花",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 49,
+        "instruction": "",
+        "input": "女人是水，包容一切艰难险阻",
+        "output": "正向",
+        "Source": "水",
+        "Target": "女人",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 50,
+        "instruction": "",
+        "input": "家永远是我们温暖的避风港。",
+        "output": "正向",
+        "Source": "温暖的避风港",
+        "Target": "家",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 51,
+        "instruction": "",
+        "input": "他陪着我走过了初中最害怕孤独的时光，我们的友谊也就像树一样，扎根在洒满阳光的路旁。",
+        "output": "正向",
+        "Source": "树",
+        "Target": "友谊",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 52,
+        "instruction": "",
+        "input": "我的大脑现在转不起来了",
+        "output": "负向",
+        "Source": "转",
+        "Target": "我的大脑",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 53,
+        "instruction": "",
+        "input": "随着左右手的不断加劲，其中一个已经坚持不住的呻吟了，“啪”清脆的声音从我耳边响起，破碎的那个像个老头一样，脸上出现了层层褶皱。",
+        "output": "负向",
+        "Source": "老头",
+        "Target": "破碎的那个",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 54,
+        "instruction": "",
+        "input": "\"我最讨厌的人就是吴诗雨他老是骗人这一点让我很讨厌而且他犯了错误总爱把责任推给别人，他的脸上有一颗黑色的痔，就像一个差不掉的污点一样。\"",
+        "output": "负向",
+        "Source": "污点",
+        "Target": "痔",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 55,
+        "instruction": "",
+        "input": "很多感情都被放在很高的地方，像漂亮的花瓶，空洞且易碎。",
+        "output": "负向",
+        "Source": "花瓶",
+        "Target": "感情",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 56,
+        "instruction": "",
+        "input": "我不是你的终点站。",
+        "output": "负向",
+        "Source": "你的终点站",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 57,
+        "instruction": "",
+        "input": "小时候的我可可爱啦，圆圆的脸蛋，长长的睫毛，大人见到我都说我像洋娃娃。",
+        "output": "正向",
+        "Source": "洋娃娃",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 58,
+        "instruction": "",
+        "input": "每个日子就像一个十分温柔，十分善良，十分恬淡，十分清丽的小女孩，我们每个人的心灵就是她美丽的衣裳，而寂寞是她最忧郁的一款。",
+        "output": "正向",
+        "Source": "女孩",
+        "Target": "日子",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 59,
+        "instruction": "",
+        "input": "熟透了的柿子像红灯笼一样挂在树上。",
+        "output": "正向",
+        "Source": "红灯笼",
+        "Target": "柿子",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 60,
+        "instruction": "",
+        "input": "我虽然人在被窝，可心却还在那本书里，我对那本书念念不忘，由其是里面经典的语句、词语，越想那本书，那本书就像磁铁一样吸引着我，我偷偷的拿了那本书，踮起脚尖，悄悄的走向了客厅，“啊！",
+        "output": "正向",
+        "Source": "磁铁",
+        "Target": "书",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 61,
+        "instruction": "",
+        "input": "手背粗糙得像松树皮，裂开了一道道口子，手掌上磨出厚厚的老茧。",
+        "output": "负向",
+        "Source": "松树皮",
+        "Target": "手背",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 62,
+        "instruction": "",
+        "input": "听着听着，我陷入了如今对我来说是多么愚蠢的回忆，眼眶也不知什么时候有了泪光，在周老师充满感动的语言中，指责就像紧绷的弓弦上射出的利箭那样落到我的头上，打开了我的“忆门”：那次我患上感冒，可我不想吃药，母亲却一直逼我吃，执着的我坚持着，母亲为此生了气，而我竟在一旁偷乐。",
+        "output": "负向",
+        "Source": "利箭",
+        "Target": "指责",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 63,
+        "instruction": "",
+        "input": "一艘银灰色的气垫船，像一匹纯种烈马，在海面上飞掠而过。",
+        "output": "正向",
+        "Source": "纯种烈马",
+        "Target": "银灰色的气垫船",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 64,
+        "instruction": "",
+        "input": "这些菊花的花瓣就像细细的萝卜丝一样。",
+        "output": "中性",
+        "Source": "萝卜丝",
+        "Target": "花瓣",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 65,
+        "instruction": "",
+        "input": "青少年从社会中吸取知识智慧",
+        "output": "正向",
+        "Source": "吸取",
+        "Target": "知识智慧",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 66,
+        "instruction": "",
+        "input": "让文明成为增进各国人民友谊的桥梁",
+        "output": "正向",
+        "Source": "桥梁",
+        "Target": "文明",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 67,
+        "instruction": "",
+        "input": "“闪光乐”点起来像太阳，一闪一闪的，很刺眼。",
+        "output": "负向",
+        "Source": "太阳",
+        "Target": "闪光乐",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 68,
+        "instruction": "",
+        "input": "除夕守岁的时候我总是像跟屁虫似的跟着祖母团团转，她总是第一个给我压岁钱。",
+        "output": "中性",
+        "Source": "跟屁虫",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 69,
+        "instruction": "",
+        "input": "灿烂的黎明又一次降临在珠江口",
+        "output": "正向",
+        "Source": "降临",
+        "Target": "灿烂的黎明",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 70,
+        "instruction": "",
+        "input": "月亮从东边升起，一轮金黄的圆月，光溜溜的，像一面大镜子。",
+        "output": "正向",
+        "Source": "镜子",
+        "Target": "月",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 71,
+        "instruction": "",
+        "input": "她长着一头短发，一张圆圆的脸蛋像个红彤彤的苹果，两道弯月般的眉毛下嵌着一双炯炯有神的眼睛，高高的鼻梁下还有一张能说会道的嘴，心烦气躁的时候，那张嘴巴就撅起来，上面仿佛还能挂一个油瓶呢！",
+        "output": "正向",
+        "Source": "苹果",
+        "Target": "脸蛋",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 72,
+        "instruction": "",
+        "input": "他终于蝉蜕成顶天立地的男子汉。",
+        "output": "正向",
+        "Source": "蝉蜕",
+        "Target": "他",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 73,
+        "instruction": "",
+        "input": "他，一个阳光、健硕、帅气的男孩，他总是什么都知道，就像是一本百库全书，不管你问他什么问题，他都可以给你一个满意的答复。",
+        "output": "正向",
+        "Source": "百库全书",
+        "Target": "他",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 74,
+        "instruction": "",
+        "input": "你太一门心思地聚焦美国了吧",
+        "output": "中性",
+        "Source": "聚焦",
+        "Target": "美国",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 75,
+        "instruction": "",
+        "input": "她的眼泪像断了线的珍珠项链",
+        "output": "负向",
+        "Source": "断了线的珍珠项链",
+        "Target": "她的眼泪",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 76,
+        "instruction": "",
+        "input": "当时，院子内的几棵树都快被雪花压弯了，就像一个垂暮的满头白发的驼背老人一样。",
+        "output": "负向",
+        "Source": "老人",
+        "Target": "树",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 77,
+        "instruction": "",
+        "input": "她像一只受到惊吓的小兔子。",
+        "output": "负向",
+        "Source": "受到惊吓的小兔子",
+        "Target": "她",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 78,
+        "instruction": "",
+        "input": "“雷锋精神”对当今社会而言显得更加弥足珍贵，人们因讨生活而疲惫不堪的同时像刺猬一般难以亲近。",
+        "output": "负向",
+        "Source": "刺猬",
+        "Target": "人们",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 79,
+        "instruction": "",
+        "input": "\"沿着小路我们先参观了他们的宿舍一进门就看到了整洁干净的床铺尤其是被子叠的整整齐齐像一个四四方方的豆腐块。\"",
+        "output": "正向",
+        "Source": "豆腐块",
+        "Target": "被子",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 80,
+        "instruction": "",
+        "input": "在茫茫的人生海洋上，会遇到无数挫折，你像一艘船，乘风破浪，勇敢向前。",
+        "output": "正向",
+        "Source": "船",
+        "Target": "你",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 81,
+        "instruction": "",
+        "input": "永远扭曲别人善意的人，无药可救",
+        "output": "负向",
+        "Source": "扭曲",
+        "Target": "善意",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 82,
+        "instruction": "",
+        "input": "心却是零散得像大漠的沙。",
+        "output": "负向",
+        "Source": "沙",
+        "Target": "心",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 83,
+        "instruction": "",
+        "input": "父亲的爱像一个爱的港湾，让我们在那里快乐成长。",
+        "output": "正向",
+        "Source": "港湾",
+        "Target": "爱",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 84,
+        "instruction": "",
+        "input": "他们都是来看哥笑话的,你只不过是陪绑",
+        "output": "负向",
+        "Source": "陪绑",
+        "Target": "你",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 85,
+        "instruction": "",
+        "input": "巨大的烟囱像灵魂收割者的镰刀，孤孤单单的耸立着，浓烟伴随火焰正熊熊燃烧着生产者及周围居民的生命，虽然生命被燃烧了，但是那是没有闪光点的燃烧，没有掌声。",
+        "output": "负向",
+        "Source": "镰刀",
+        "Target": "烟囱",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 86,
+        "instruction": "",
+        "input": "老师是园丁，辛勤浇灌祖国的花朵。",
+        "output": "正向",
+        "Source": "园丁",
+        "Target": "老师",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 87,
+        "instruction": "",
+        "input": "不敢想象那些刻骨铭心的十年寒窗会像这薄薄的云朵如此轻易地随风飘散！",
+        "output": "负向",
+        "Source": "云朵",
+        "Target": "十年寒窗",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 88,
+        "instruction": "",
+        "input": "没有人死如处女，生活强奸了所有人。",
+        "output": "负向",
+        "Source": "强奸",
+        "Target": "生活",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 89,
+        "instruction": "",
+        "input": "我长着一双水汪汪的眼睛，高高的鼻梁，像一座小山矗立在我的脸上，一对不大不小的耳朵，组成一张秀气的脸，充满灵气，人见人爱。",
+        "output": "正向",
+        "Source": "小山",
+        "Target": "鼻梁",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 90,
+        "instruction": "",
+        "input": "火山再次发怒",
+        "output": "负向",
+        "Source": "发怒",
+        "Target": "火山",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 91,
+        "instruction": "",
+        "input": "每当看到这样的情景，我的心里就像一只小兔子一样怦怦直跳，这些同学有没有想过这样的行为会导致什么样的后果呢？",
+        "output": "中性",
+        "Source": "兔子",
+        "Target": "心里",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 92,
+        "instruction": "",
+        "input": "我的星期天，我的心情，就像几米的漫画，鲜艳的色彩，细腻的线条，每一幅都会有不同的意义，当然也包括心情。",
+        "output": "正向",
+        "Source": "漫画",
+        "Target": "心情",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 93,
+        "instruction": "",
+        "input": "除了小红我们都碰了一鼻子灰",
+        "output": "负向",
+        "Source": "碰了一鼻子灰",
+        "Target": "我们",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 94,
+        "instruction": "",
+        "input": "一个人的才能永远不会随时间流产。",
+        "output": "负向",
+        "Source": "流产",
+        "Target": "一个人的才能",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 95,
+        "instruction": "",
+        "input": "窗前有风掠过，掠过的是那些偶尔泛在脑海里的回忆",
+        "output": "中性",
+        "Source": "偶尔泛在脑海里的回忆",
+        "Target": "风",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 96,
+        "instruction": "",
+        "input": "花园旁是竹子，翠绿挺拔，像坚毅的战士。",
+        "output": "正向",
+        "Source": "战士",
+        "Target": "竹子",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 97,
+        "instruction": "",
+        "input": "顾尔谦的兴致像水里浮的软木塞，倾盆大雨都打他不下。",
+        "output": "正向",
+        "Source": "水里浮的软木塞",
+        "Target": "顾尔谦的兴致",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 98,
+        "instruction": "",
+        "input": "他就那么定定地看着儿子，混黄的眼睛里布满血丝，像傍晚的天空上，燎原的红光，那要烧毁一切的欲望。",
+        "output": "负向",
+        "Source": "红光",
+        "Target": "血丝",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 99,
+        "instruction": "",
+        "input": "过多的肥料把花的叶子烧成了黄色",
+        "output": "负向",
+        "Source": "烧",
+        "Target": "过多的肥料",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 100,
+        "instruction": "",
+        "input": "大姐姐说话，像清凉的泉水，滋润了我的心田。",
+        "output": "正向",
+        "Source": "泉水",
+        "Target": "话",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 101,
+        "instruction": "",
+        "input": "在此我祝愿我的小树能够像人一样快快乐乐的成长，将来成为我们的朋友，也希望我自己能够树立起更好的学习和生活习惯，努力使自己成为一个有用的人。",
+        "output": "正向",
+        "Source": "人",
+        "Target": "树",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 102,
+        "instruction": "",
+        "input": "她不守贞洁只守美，像烟雨中摇戈的风铃，直让男性的世界围着她无常的喜怒而旋转。",
+        "output": "中性",
+        "Source": "风铃",
+        "Target": "她",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 103,
+        "instruction": "",
+        "input": "说完，我像小燕子一样飞出教室，冲向对面楼的教导处。",
+        "output": "正向",
+        "Source": "小燕子",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 104,
+        "instruction": "",
+        "input": "\"它也像一个“老师\"\"，教我许多道理。\"",
+        "output": "正向",
+        "Source": "老师",
+        "Target": "它",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 105,
+        "instruction": "",
+        "input": "他的心中燃起了怒火",
+        "output": "负向",
+        "Source": "燃起",
+        "Target": "他的心中",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 106,
+        "instruction": "",
+        "input": "共享经济不过是泡沫",
+        "output": "负向",
+        "Source": "泡沫",
+        "Target": "共享经济",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 107,
+        "instruction": "",
+        "input": "你跑就跑你的得了，为什么偏偏要我老二陪绑呢",
+        "output": "负向",
+        "Source": "陪绑",
+        "Target": "我老二",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 108,
+        "instruction": "",
+        "input": "你飘逸的长发和灿烂的笑容给人一种似曾相识的感觉，咧嘴微笑时还会露出两颗可爱的小虎牙，你那微笑像极了冬日里的暖阳，可以融化冰雪可以带来温热。",
+        "output": "正向",
+        "Source": "暖阳",
+        "Target": "微笑",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 109,
+        "instruction": "",
+        "input": "我就像树枝，妈妈用这双手修剪了我长错的枝条，使我重新走上正确的路，开出美丽的花儿来。",
+        "output": "正向",
+        "Source": "树枝",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 110,
+        "instruction": "",
+        "input": "秋风飒飒，秋雨绵绵，那细雨像抽不尽的银丝，又如根根牛毛，使大地润湿。",
+        "output": "正向",
+        "Source": "银丝",
+        "Target": "细雨",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 111,
+        "instruction": "",
+        "input": "在说明过程中也不乏生动的比喻，“摆放整齐的饺子像大雁凌空飞翔”，既增强了文章的美感，又生动形象。",
+        "output": "正向",
+        "Source": "大雁",
+        "Target": "饺子",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 112,
+        "instruction": "",
+        "input": "一对短触角在它爬行时会一下又一下的触碰着地面，就像两根探测棒，仔细地查看地面上有没有东西。",
+        "output": "中性",
+        "Source": "探测棒",
+        "Target": "触角",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 113,
+        "instruction": "",
+        "input": "思念像藤蔓一样牢牢的抓着我的心，我无数次给姐姐打电话，姐姐总是说过的很好。",
+        "output": "负向",
+        "Source": "藤蔓",
+        "Target": "思念",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 114,
+        "instruction": "",
+        "input": "他的心开始激荡。",
+        "output": "正向",
+        "Source": "激荡",
+        "Target": "他的心",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 115,
+        "instruction": "",
+        "input": "奔马一样的豪雨也跟着就来",
+        "output": "中性",
+        "Source": "奔马",
+        "Target": "豪雨",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 116,
+        "instruction": "",
+        "input": "门上悬挂着红色大灯笼，两边插着小彩旗，进了大门一看，左右两边全都是鲜花，像两条龙，花坛枝叶修剪的图案清晰美观。",
+        "output": "正向",
+        "Source": "龙",
+        "Target": "鲜花",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 117,
+        "instruction": "",
+        "input": "时光如飞箭，又像一把杀猪刀，把我们的天真善良都“削”掉了一大半。",
+        "output": "负向",
+        "Source": "杀猪刀",
+        "Target": "时光",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 118,
+        "instruction": "",
+        "input": "他的回忆是一片灰暗。",
+        "output": "负向",
+        "Source": "灰暗",
+        "Target": "他的回忆",
+        "Type": "ATTRIBUTE-NOUN"
+    },
+    {
+        "id": 119,
+        "instruction": "",
+        "input": "随着她的命令，我像一只离弦的箭，“唆”的一下冲向了别人的家。",
+        "output": "中性",
+        "Source": "箭",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 120,
+        "instruction": "",
+        "input": "他们在煎熬中越过越开心、自在，他们在煎熬中过得美丽，只有像茶叶这般，才能如此的轻松自在。",
+        "output": "正向",
+        "Source": "茶叶",
+        "Target": "他们",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 121,
+        "instruction": "",
+        "input": "我在那平静里隐居下来，只有轻轻的脚步踏在轻薄的月光上，那月光多么像一片朦胧的幻境。",
+        "output": "正向",
+        "Source": "幻境",
+        "Target": "月光",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 122,
+        "instruction": "",
+        "input": "他的目光停留在了她的身上",
+        "output": "中性",
+        "Source": "停留",
+        "Target": "他的目光",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 123,
+        "instruction": "",
+        "input": "心似双丝网，中有千千结。",
+        "output": "中性",
+        "Source": "双丝网",
+        "Target": "心",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 124,
+        "instruction": "",
+        "input": "饥饿曾经多么严重的袭击了我们。",
+        "output": "负向",
+        "Source": "袭击",
+        "Target": "饥饿",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 125,
+        "instruction": "",
+        "input": "我们能从爱情中，常常感受到心灵的燃烧，感受到自己像一支风笛，被我们的爱人吹出一支支幸福的歌谣。",
+        "output": "正向",
+        "Source": "风笛",
+        "Target": "自己",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 126,
+        "instruction": "",
+        "input": "不久，只见月亮像一位羞答答的小姑娘从云层中漏出脸来，又过了一会儿，她才完全走出来。",
+        "output": "正向",
+        "Source": "小姑娘",
+        "Target": "月亮",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 127,
+        "instruction": "",
+        "input": "站在那熊栏前，看着那头巨大的黑熊像哲学家似的来来往往踱方步",
+        "output": "正向",
+        "Source": "哲学家",
+        "Target": "巨大的黑熊",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 128,
+        "instruction": "",
+        "input": "我应该乐观，应该像磐石般的坚强。",
+        "output": "正向",
+        "Source": "磐石",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 129,
+        "instruction": "",
+        "input": "雨越下越大，屋顶上的雨水像瀑布一样从房檐上泻到地上，以滴水石穿的神奇力量，在地上留下了一排整齐的小坑。",
+        "output": "中性",
+        "Source": "瀑布",
+        "Target": "雨水",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 130,
+        "instruction": "",
+        "input": "他瘦成了纸片人",
+        "output": "负向",
+        "Source": "纸片人",
+        "Target": "他",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 131,
+        "instruction": "",
+        "input": "太平天国刚在天京城里站住脚跟",
+        "output": "正向",
+        "Source": "站住脚跟",
+        "Target": "太平天国",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 132,
+        "instruction": "",
+        "input": "远看，水天一色，海水在阳光下像金子一样闪闪发光。",
+        "output": "正向",
+        "Source": "金子",
+        "Target": "海水",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 133,
+        "instruction": "",
+        "input": "这颗原子弹是老一辈人努力的结晶",
+        "output": "正向",
+        "Source": "老一辈人努力的结晶",
+        "Target": "原子弹",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 134,
+        "instruction": "",
+        "input": "六个同学都穿着火红的衣裳，就像一个个火红的火球在台上舞动。",
+        "output": "正向",
+        "Source": "火球",
+        "Target": "同学",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 135,
+        "instruction": "",
+        "input": "在这五年的校园生活里，我觉得它就像一桌盛宴，酸甜苦辣，什么菜都香。",
+        "output": "正向",
+        "Source": "盛宴",
+        "Target": "校园生活",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 136,
+        "instruction": "",
+        "input": "我演讲的题目是：让书香为梦想插上快乐的翅膀有人说，人生就像一本书，自诞生之日翻开扉页，每一天都没有停止记录和书写。",
+        "output": "正向",
+        "Source": "书",
+        "Target": "人生",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 137,
+        "instruction": "",
+        "input": "在安静的天空，我像风筝寻一个梦，雨后的天空，是否有放晴的面容，我静静的望着天空，试着寻找我失落的感动，只能用笑容期待着雨过天晴的彩虹。",
+        "output": "正向",
+        "Source": "风筝",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 138,
+        "instruction": "",
+        "input": "天空是绵绵的糖，就算塌下来又怎样",
+        "output": "正向",
+        "Source": "绵绵的糖",
+        "Target": "天空",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 139,
+        "instruction": "",
+        "input": "而这时，他早就像小偷一样神不知鬼不觉地溜回家了。",
+        "output": "负向",
+        "Source": "小偷",
+        "Target": "他",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 140,
+        "instruction": "",
+        "input": "让我们对土地倾注更强烈的感情吧。",
+        "output": "正向",
+        "Source": "倾注",
+        "Target": "更强烈的感情",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 141,
+        "instruction": "",
+        "input": "我警醒的感官总是不由自主全涌向他。",
+        "output": "正向",
+        "Source": "涌向",
+        "Target": "警醒的感官",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 142,
+        "instruction": "",
+        "input": "石材今天已成为灵寿的支柱产业和灵寿的经济\"巨龙\"",
+        "output": "正向",
+        "Source": "巨龙",
+        "Target": "石材",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 143,
+        "instruction": "",
+        "input": "岁月已如蝴蝶般，在我们察觉不到的时候，翩然飞过。",
+        "output": "正向",
+        "Source": "蝴蝶",
+        "Target": "岁月",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 144,
+        "instruction": "",
+        "input": "母亲胸怀部中弹栽到在雪地里，鲜红的血刹时染红了雪地，像一朵啼血的杜鹃花。",
+        "output": "负向",
+        "Source": "杜鹃花",
+        "Target": "血",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 145,
+        "instruction": "",
+        "input": "他如一颗珍珠，虽在人群中蒙尘，但难以掩盖光辉。",
+        "output": "正向",
+        "Source": "珍珠",
+        "Target": "他",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 146,
+        "instruction": "",
+        "input": "中国队不断地变换发球方法,以使对方把握不住规律",
+        "output": "中性",
+        "Source": "把握",
+        "Target": "规律",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 147,
+        "instruction": "",
+        "input": "她在心底里存着一个美好的愿望",
+        "output": "正向",
+        "Source": "存着",
+        "Target": "美好的愿望",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 148,
+        "instruction": "",
+        "input": "酷爱生活的女画家约翰西，患了肺炎濒临大限时，“害怕在她轻轻抓着这个世界的手越来越乏力的时候，她会真的像一片轻轻的、纤弱的叶子那样，随深秋的寒凤飘逝而去”。",
+        "output": "负向",
+        "Source": "叶子",
+        "Target": "她",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 149,
+        "instruction": "",
+        "input": "春天的阳光格外明媚，春姑娘展开了笑脸，太阳，红红的光束射过来，那温柔地抚摸你，像年轻的母亲的手。",
+        "output": "正向",
+        "Source": "手",
+        "Target": "光束",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 150,
+        "instruction": "",
+        "input": "拥抱无尽的虚空吧。",
+        "output": "负向",
+        "Source": "拥抱",
+        "Target": "无尽的虚空",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 151,
+        "instruction": "",
+        "input": "\"我不过是个备胎，呵\"，他冷笑一声。",
+        "output": "负向",
+        "Source": "备胎",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 152,
+        "instruction": "",
+        "input": "马路开膛何时了？",
+        "output": "负向",
+        "Source": "开膛",
+        "Target": "马路",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 153,
+        "instruction": "",
+        "input": "这位医者拯救了他的灵魂",
+        "output": "正向",
+        "Source": "拯救",
+        "Target": "他的灵魂",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 154,
+        "instruction": "",
+        "input": "他的动作像风一样",
+        "output": "正向",
+        "Source": "风",
+        "Target": "他的动作",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 155,
+        "instruction": "",
+        "input": "时间像流星一样匆匆划过，转眼间，我已踏入中学的大门，成为一名中学生。",
+        "output": "中性",
+        "Source": "流星",
+        "Target": "时间",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 156,
+        "instruction": "",
+        "input": "石榴花火红火红的结出了一个个大石榴这些石榴有的笑得咧开了嘴还有的笑破了肚皮露出了一颗颗石榴肉它们一颗颗你挨着我我挨着你全是白里透红的像玛瑙似的味道又甜又酸清凉可口。",
+        "output": "正向",
+        "Source": "玛瑙",
+        "Target": "石榴肉",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 157,
+        "instruction": "",
+        "input": "我们这个团体要注入新人。",
+        "output": "正向",
+        "Source": "注入",
+        "Target": "新人",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 158,
+        "instruction": "",
+        "input": "这个世界需要宽容，宽容是最大的美德，希望大家都能够宽容待人，以自己的宽容去感化他人，也让他人学会宽容，让宽容传播开来，像那些洁白的随风轻舞的蒲公英一样去飞翔，让世界充满宽容！",
+        "output": "正向",
+        "Source": "蒲公英",
+        "Target": "宽容",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 159,
+        "instruction": "",
+        "input": "这个夜晚像一副着色过重的铅笔画，永远留在我心里。",
+        "output": "正向",
+        "Source": "着色过重的铅笔画",
+        "Target": "夜晚",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 160,
+        "instruction": "",
+        "input": "张家的女儿攀上了高枝",
+        "output": "中性",
+        "Source": "攀上了高枝",
+        "Target": "张家的女儿",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 161,
+        "instruction": "",
+        "input": "这孩子简直成了泥猴。",
+        "output": "负向",
+        "Source": "泥猴",
+        "Target": "孩子",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 162,
+        "instruction": "",
+        "input": "她像下蛋的母鸡一样",
+        "output": "中性",
+        "Source": "下蛋的母鸡",
+        "Target": "她",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 163,
+        "instruction": "",
+        "input": "跟那几个汉子一道老杨头也到外边闯世界去了",
+        "output": "正向",
+        "Source": "闯",
+        "Target": "世界",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 164,
+        "instruction": "",
+        "input": "他肢解了苏联",
+        "output": "负向",
+        "Source": "肢解",
+        "Target": "苏联",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 165,
+        "instruction": "",
+        "input": "苏小姐双颊涂的淡胭脂下面忽然晕出红来，像纸上沁的油渍",
+        "output": "正向",
+        "Source": "纸上沁的油渍",
+        "Target": "淡胭脂",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 166,
+        "instruction": "",
+        "input": "有谁的白手帕会像这天一样不沾一点污秽呢？",
+        "output": "正向",
+        "Source": "这天",
+        "Target": "手帕",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 167,
+        "instruction": "",
+        "input": "在生活中，我碰到困难时，要像小人鱼一样坚强的面对。",
+        "output": "正向",
+        "Source": "小人鱼",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 168,
+        "instruction": "",
+        "input": "黄黄全身长着黄色的毛，就像金黄色的锦缎。",
+        "output": "正向",
+        "Source": "锦缎",
+        "Target": "毛",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 169,
+        "instruction": "",
+        "input": "曾经有人说我就像一只被禁锢在玻璃坠里的蝎子，看起来很温柔，其实是有毒的！",
+        "output": "负向",
+        "Source": "蝎子",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 170,
+        "instruction": "",
+        "input": "花坛里开满了一簇簇金黄的迎春花，像极了穿着彩绸的一群少女在欢迎游客。",
+        "output": "正向",
+        "Source": "少女",
+        "Target": "迎春花",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 171,
+        "instruction": "",
+        "input": "四季常青的松树看上去比去年更绿了，它们像一个个守护春天美丽景色的使者。",
+        "output": "正向",
+        "Source": "使者",
+        "Target": "松树",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 172,
+        "instruction": "",
+        "input": "伴随着炮火延伸，意味着前奏过后，激烈的战斗将成为主旋律。",
+        "output": "负向",
+        "Source": "主旋律",
+        "Target": "激烈的战斗",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 173,
+        "instruction": "",
+        "input": "武装部队的战士们心头的怒火像火山一样喷发出来",
+        "output": "负向",
+        "Source": "火山",
+        "Target": "心头的怒火",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 174,
+        "instruction": "",
+        "input": "这是一支生活根基扎实、知识积累厚实的\"实力派\"作家群。",
+        "output": "正向",
+        "Source": "根基",
+        "Target": "生活",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 175,
+        "instruction": "",
+        "input": "小兴安岭是座天然的宝库",
+        "output": "正向",
+        "Source": "天然的宝库",
+        "Target": "小兴安岭",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 176,
+        "instruction": "",
+        "input": "阿喀琉斯是一头狮子。",
+        "output": "正向",
+        "Source": "狮子",
+        "Target": "阿喀琉斯",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 177,
+        "instruction": "",
+        "input": "高工资是这个国家经济发展的一张王牌。。",
+        "output": "正向",
+        "Source": "王牌",
+        "Target": "高工资",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 178,
+        "instruction": "",
+        "input": "作为父亲你不应该对孩子摆威风",
+        "output": "负向",
+        "Source": "摆",
+        "Target": "威风",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 179,
+        "instruction": "",
+        "input": "是的，生活就像一面镜子，擦亮了，在它面前坦诚相待，真诚面对，你将在镜子上看到无与伦比的自己。",
+        "output": "正向",
+        "Source": "镜子",
+        "Target": "生活",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 180,
+        "instruction": "",
+        "input": "生活就像是幸福里的巧克力糖，什么滋味，充满想象。",
+        "output": "正向",
+        "Source": "巧克力糖",
+        "Target": "生活",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 181,
+        "instruction": "",
+        "input": "童年的记忆像一片片叶子，虽然渐渐飘落，但依然翠的耀眼。",
+        "output": "正向",
+        "Source": "叶子",
+        "Target": "记忆",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 182,
+        "instruction": "",
+        "input": "可那所见过的人，所经历的事情却像水汽罩着的玻璃，朦胧而恍惚。",
+        "output": "中性",
+        "Source": "水汽罩着的玻璃",
+        "Target": "事情",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 183,
+        "instruction": "",
+        "input": "小明一直在消化文学作品",
+        "output": "中性",
+        "Source": "消化",
+        "Target": "文学作品",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 184,
+        "instruction": "",
+        "input": "虽然光阴似箭，但是此情不变。",
+        "output": "中性",
+        "Source": "箭",
+        "Target": "光阴",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 185,
+        "instruction": "",
+        "input": "鹅毛般的大雪降落下来。",
+        "output": "中性",
+        "Source": "鹅毛",
+        "Target": "大雪",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 186,
+        "instruction": "",
+        "input": "这个惊人的消息，像大炮一样炸的我的家摇摇欲坠。",
+        "output": "负向",
+        "Source": "大炮",
+        "Target": "消息",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 187,
+        "instruction": "",
+        "input": "我最不爱吃的水果是榴莲，它很臭很臭，吃起来我妈妈说感觉很香很香，它的形状很像刺猬，扎扎的。",
+        "output": "中性",
+        "Source": "刺猬",
+        "Target": "形状",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 188,
+        "instruction": "",
+        "input": "脸色苍白如同一尊蜡像",
+        "output": "负向",
+        "Source": "蜡像",
+        "Target": "脸色",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 189,
+        "instruction": "",
+        "input": "走在村庄窄窄的巷子里，毛毛的雨在屋檐下汇集成零丁的雨滴，一滴一滴地下着，像是一次又一次人世绝然地告别，跫跫的足音在巷子里回响着。",
+        "output": "负向",
+        "Source": "告别",
+        "Target": "雨滴",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 190,
+        "instruction": "",
+        "input": "冰冰凉凉的汁水像一条蜜做成的线，源源不断地流进我的喉咙里，清爽极了，甜蜜极了！",
+        "output": "正向",
+        "Source": "线",
+        "Target": "汁水",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 191,
+        "instruction": "",
+        "input": "下雪时，雪花纷纷扬扬、飘飘洒洒的落下来，像白色的蝴蝶在空中飞舞。",
+        "output": "正向",
+        "Source": "蝴蝶",
+        "Target": "雪花",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 192,
+        "instruction": "",
+        "input": "叶子也快落光了，树的周围铺着一层厚厚的金黄色的地毯。",
+        "output": "正向",
+        "Source": "厚厚的金黄色的地毯",
+        "Target": "叶子",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 193,
+        "instruction": "",
+        "input": "社会就像一所学校，生活中处处有我们的良师。",
+        "output": "正向",
+        "Source": "学校",
+        "Target": "社会",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 194,
+        "instruction": "",
+        "input": "主脉像一宽敞的大道从叶尾直通到叶尖，支持着整片叶子，也引导着叶子的生长方向。",
+        "output": "正向",
+        "Source": "大道",
+        "Target": "主脉",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 195,
+        "instruction": "",
+        "input": "与一朵朵花儿像包裹在母亲怀里的洋娃娃，那么可爱`美丽，诱发我心底强烈的保护欲。",
+        "output": "正向",
+        "Source": "洋娃娃",
+        "Target": "花儿",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 196,
+        "instruction": "",
+        "input": "霎时乌云盖天，到处都灰蒙蒙的，平时热闹的村庄，此时就像死神手里玩物，哪怕一个不小心，就会荡然无存，化为尘土，成为无声的喧嚣。",
+        "output": "负向",
+        "Source": "玩物",
+        "Target": "村庄",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 197,
+        "instruction": "",
+        "input": "像嘴巴一样的大铁门，还是遥控的呢。",
+        "output": "中性",
+        "Source": "嘴巴",
+        "Target": "铁门",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 198,
+        "instruction": "",
+        "input": "有人说，人就像一块木头，而生命的过程便是将这块木头雕成各种形状，这最后的形状边是梦想，有的形状被人唾弃，有的却能流传千古，被人赞颂。",
+        "output": "中性",
+        "Source": "木头",
+        "Target": "人",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 199,
+        "instruction": "",
+        "input": "生活就像一首激情澎湃的诗。",
+        "output": "正向",
+        "Source": "诗",
+        "Target": "生活",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 200,
+        "instruction": "",
+        "input": "他们还要通过修改，把作品打磨得更其精细",
+        "output": "正向",
+        "Source": "打磨",
+        "Target": "作品",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 201,
+        "instruction": "",
+        "input": "人生就像一场旅程",
+        "output": "中性",
+        "Source": "旅程",
+        "Target": "人生",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 202,
+        "instruction": "",
+        "input": "每天吃一颗糖，然后告诉自己今天是甜食。",
+        "output": "正向",
+        "Source": "甜食",
+        "Target": "今天",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 203,
+        "instruction": "",
+        "input": "青春就像一局棋，当我们处在黑白间的困惑时，只有把握自己，把握这青春年华，才能走出黑白间的彷徨。",
+        "output": "中性",
+        "Source": "棋",
+        "Target": "青春",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 204,
+        "instruction": "",
+        "input": "他们曾经以他们伟大的发明为人类的发展作出了重大的贡献，然而他们的后半生却完全成了钱的奴隶，不仅像吸血鬼一样吞噬着人民的财产，还为了保住自己的权势埋没了大批的科技人才和新的科研成果，这样的行为是可耻的，他们的灵魂是堕落的。",
+        "output": "负向",
+        "Source": "吸血鬼",
+        "Target": "他们",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 205,
+        "instruction": "",
+        "input": "岩底凸出的石头，黑黑的，真像柴火。",
+        "output": "中性",
+        "Source": "柴火",
+        "Target": "石头",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 206,
+        "instruction": "",
+        "input": "在我那五彩缤纷的童年里，有许多事情，有的都忘了，有的记得模模糊糊，但有一件事我忘不了，就像在我的记忆里长了一个疤一样。",
+        "output": "负向",
+        "Source": "疤",
+        "Target": "事",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 207,
+        "instruction": "",
+        "input": "说起我的性格嘛，那可真像大海，时而风平浪静，时而波涛汹涌，极不稳定。",
+        "output": "中性",
+        "Source": "大海",
+        "Target": "性格",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 208,
+        "instruction": "",
+        "input": "我发现海军叔叔的被子叠得整整齐齐，像一块块方砖放在床头。",
+        "output": "正向",
+        "Source": "砖",
+        "Target": "被子",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 209,
+        "instruction": "",
+        "input": "我问了问小伙伴，他说桑叶小区里就有，圆圆的像大的铜钱，树比较小。",
+        "output": "中性",
+        "Source": "铜钱",
+        "Target": "桑叶",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 210,
+        "instruction": "",
+        "input": "他看上去文质彬彬的，脾气却非常火爆，只要稍微冒犯他一下，他便会‘火山爆发’，眼睛瞪得非常的园，像碟子一样大，让人望而生畏，可怕极了。",
+        "output": "负向",
+        "Source": "碟子",
+        "Target": "眼睛",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 211,
+        "instruction": "",
+        "input": "人民警察在危急时刻就是我们的守护神",
+        "output": "正向",
+        "Source": "我们的守护神",
+        "Target": "人民警察",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 212,
+        "instruction": "",
+        "input": "她们各自有了各自的班级，寝室，同学，朋友，交际圈像是两个相离的圆。",
+        "output": "负向",
+        "Source": "相离的圆",
+        "Target": "交际圈",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 213,
+        "instruction": "",
+        "input": "崔健给了我们一个带着“流行印记”的回忆，他就像是一个符号，一个引领时代潮流的符号。",
+        "output": "正向",
+        "Source": "符号",
+        "Target": "崔健",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 214,
+        "instruction": "",
+        "input": "这里有京杭大运河穿过，像一条玉带，把聊城的许多名胜古迹和景点连在一起，例如：山陕会馆、东昌湖、光岳楼、文化广场等等。",
+        "output": "正向",
+        "Source": "玉带",
+        "Target": "京杭大运河",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 215,
+        "instruction": "",
+        "input": "这数十人在霎时间变得如泥塑木雕一般",
+        "output": "中性",
+        "Source": "泥塑木雕",
+        "Target": "数十人",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 216,
+        "instruction": "",
+        "input": "我替你去碰碰运气",
+        "output": "中性",
+        "Source": "碰碰",
+        "Target": "运气",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 217,
+        "instruction": "",
+        "input": "马克吐温的作品是美国的一面镜子",
+        "output": "正向",
+        "Source": "镜子",
+        "Target": "马克吐温的作品",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 218,
+        "instruction": "",
+        "input": "但他执著的忠心，他以死报君思想，用生命对抗像流水一样腐朽的黑暗势力的决心象山一样屹立。",
+        "output": "负向",
+        "Source": "流水",
+        "Target": "黑暗势力",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 219,
+        "instruction": "",
+        "input": "仔细一看原来是只虾，我像一只泄了气的皮球，一下子软了，可是好不容易才把它捉到的，就这样放掉太可惜了吧，还是把它养起来，一会儿，我看到几条小鱼，就躡手蹑脚的走过去，终于有几条小鱼了，落入了我的“魔掌”，我将他们放到瓶子里和虾做伴。",
+        "output": "负向",
+        "Source": "皮球",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 220,
+        "instruction": "",
+        "input": "然而今天的大瀑布像生命垂危的老人一般，形容枯槁，奄奄一息。",
+        "output": "负向",
+        "Source": "老人",
+        "Target": "瀑布",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 221,
+        "instruction": "",
+        "input": "人的智慧不用，就会枯萎。",
+        "output": "负向",
+        "Source": "枯萎",
+        "Target": "人的智慧",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 222,
+        "instruction": "",
+        "input": "当我听到这首赞美老师的歌，往事像奔腾的浪涛，霎时间涌满我的胸口。",
+        "output": "正向",
+        "Source": "浪涛",
+        "Target": "往事",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 223,
+        "instruction": "",
+        "input": "慢慢地，观众和卡通形象融为一体，游行自然演绎成狂欢。",
+        "output": "正向",
+        "Source": "融为一体",
+        "Target": "观众和卡通形象",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 224,
+        "instruction": "",
+        "input": "到了下午两点，极度的寂静在这栋房屋落脚。",
+        "output": "中性",
+        "Source": "落脚",
+        "Target": "极度的寂静",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 225,
+        "instruction": "",
+        "input": "他是赵伯韬的喇叭",
+        "output": "负向",
+        "Source": "赵伯韬的喇叭",
+        "Target": "他",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 226,
+        "instruction": "",
+        "input": "奸诈的威尼斯商人夏洛克就是一只狡黠的狐狸。",
+        "output": "负向",
+        "Source": "狡黠的狐狸",
+        "Target": "奸诈的威尼斯商人夏洛克",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 227,
+        "instruction": "",
+        "input": "麦田里的麦穗刚刚露出了脸，被风一吹，一起一伏的，像波浪一样。",
+        "output": "正向",
+        "Source": "波浪",
+        "Target": "麦穗",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 228,
+        "instruction": "",
+        "input": "由车窗向外眺望，远处山峦像绿色长龙蜿蜒起伏。",
+        "output": "正向",
+        "Source": "龙",
+        "Target": "山峦",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 229,
+        "instruction": "",
+        "input": "人生的道路就像崎岖的山路坎坷不平。",
+        "output": "负向",
+        "Source": "山路",
+        "Target": "人生",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 230,
+        "instruction": "",
+        "input": "父亲依旧沉浸在自己的世界里",
+        "output": "中性",
+        "Source": "沉浸",
+        "Target": "自己的世界",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 231,
+        "instruction": "",
+        "input": "此时，我就像一只快乐的小鸟，在广场上滑了一圈又圈。",
+        "output": "正向",
+        "Source": "小鸟",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 232,
+        "instruction": "",
+        "input": "像咖啡一样的母爱，我品了整整十六年，才品出了它深藏的味道。",
+        "output": "正向",
+        "Source": "咖啡",
+        "Target": "母爱",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 233,
+        "instruction": "",
+        "input": "有些人为了工作或学习，日夜忙碌，像一部之夜不停的机器",
+        "output": "负向",
+        "Source": "之夜不停的机器",
+        "Target": "人",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 234,
+        "instruction": "",
+        "input": "那样的感觉，就像一把利剑直插在我的心头，撕心裂肺的痛。",
+        "output": "负向",
+        "Source": "利剑",
+        "Target": "感觉",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 235,
+        "instruction": "",
+        "input": "月上中天，皎洁温柔，柔和的月光把夜晚烘托出一片平静与祥和，月亮的光落在树丫上，落下斑驳的黑影，零星的像是碎条儿挂在树丫上一般。",
+        "output": "中性",
+        "Source": "碎条儿",
+        "Target": "黑影",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 236,
+        "instruction": "",
+        "input": "它像一根蜡烛，虽然比不上灯塔的巍峨，但是，它照样能发出光彩夺目的光芒。",
+        "output": "正向",
+        "Source": "蜡烛",
+        "Target": "它",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 237,
+        "instruction": "",
+        "input": "我开始像小木偶般飞快地把孩子们的字贴到黑板上。",
+        "output": "中性",
+        "Source": "木偶",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 238,
+        "instruction": "",
+        "input": "\"在生活中生命就像那奔腾的黄河川流不息不断地繁衍儿女、代代相传。\"",
+        "output": "正向",
+        "Source": "黄河",
+        "Target": "生命",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 239,
+        "instruction": "",
+        "input": "一些年轻人认为恋爱是种负担。",
+        "output": "负向",
+        "Source": "负担",
+        "Target": "恋爱",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 240,
+        "instruction": "",
+        "input": "每个人的生命都像一辆跑车。",
+        "output": "正向",
+        "Source": "跑车",
+        "Target": "每个人的生命",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 241,
+        "instruction": "",
+        "input": "我们俩都特别喜欢月牙一样的月亮，它弯弯的细细的像眼睛一样。",
+        "output": "正向",
+        "Source": "眼睛",
+        "Target": "月亮",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 242,
+        "instruction": "",
+        "input": "请假难如登天",
+        "output": "负向",
+        "Source": "登天",
+        "Target": "请假",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 243,
+        "instruction": "",
+        "input": "他们必在那将要审判活人死人的主面前交账",
+        "output": "中性",
+        "Source": "交账",
+        "Target": "他们",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 244,
+        "instruction": "",
+        "input": "闭上眼，以诚相待，那烦恼便自然会像水一般，蒸发了，回收了，不见了。",
+        "output": "正向",
+        "Source": "水",
+        "Target": "烦恼",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 245,
+        "instruction": "",
+        "input": "其实，生活中也是这样，就像爬山只要不断的努力，奋斗，就会超越别人，而往往那些遇到挫折就放弃，没有竞争能力的人，就永远排在最后。",
+        "output": "正向",
+        "Source": "爬山",
+        "Target": "生活",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 246,
+        "instruction": "",
+        "input": "它黄地可以赛过金子仔细一看它的花瓣细长细长的它的叶子像一把“芭蕉扇”可爱极了。",
+        "output": "正向",
+        "Source": "芭蕉扇",
+        "Target": "叶子",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 247,
+        "instruction": "",
+        "input": "高兴的情绪从她的眼底、嘴唇溢出来。",
+        "output": "正向",
+        "Source": "溢出来",
+        "Target": "高兴的情绪",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 248,
+        "instruction": "",
+        "input": "风一吹，树叶上的小水珠像淘气的小朋友们在玩滑梯那样从叶子上滑下来了。",
+        "output": "正向",
+        "Source": "小朋友",
+        "Target": "水珠",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 249,
+        "instruction": "",
+        "input": "“家法”打在我的身上就像荆棘一样，深深地刺入我的皮肤。",
+        "output": "负向",
+        "Source": "荆棘",
+        "Target": "家法",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 250,
+        "instruction": "",
+        "input": "不要去怀疑第25个小时的存在，因为有一句话是这样说的：时间就像海绵里的水，你愿挤，便能出来。",
+        "output": "正向",
+        "Source": "海绵里的水",
+        "Target": "时间",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 251,
+        "instruction": "",
+        "input": "冬天里飘着雪，她被迫陪奶奶逛街，脸上写满了不情愿，让奶奶的眼神瞬间黯然，只是那像雪一样冰冷的眼里没有捕捉到那一瞬的失落。",
+        "output": "负向",
+        "Source": "雪",
+        "Target": "眼里",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 252,
+        "instruction": "",
+        "input": "人的心灵徜徉在一种祥和与温馨的氛围的回忆之中。",
+        "output": "正向",
+        "Source": "徜徉",
+        "Target": "人的心灵",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 253,
+        "instruction": "",
+        "input": "每个人都有理想，它像是轮船的航向，每个人都会为着自己的理想奋斗。",
+        "output": "正向",
+        "Source": "轮船的航向",
+        "Target": "理想",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 254,
+        "instruction": "",
+        "input": "当老师宣布自由采访时，我呆呆的看着来来往往的行人，我的心像兔子一样一蹦一跳，十分紧张。",
+        "output": "负向",
+        "Source": "兔子",
+        "Target": "心",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 255,
+        "instruction": "",
+        "input": "当你独自忍受失败的悲哀，阳光像一台马力十足的鼓风机，烘干了你腮边珍珠般的泪珠。",
+        "output": "正向",
+        "Source": "鼓风机",
+        "Target": "阳光",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 256,
+        "instruction": "",
+        "input": "满天红云，满海金波，烈日就像火球，要把整个天边燃烧起来。",
+        "output": "负向",
+        "Source": "火球",
+        "Target": "烈日",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 257,
+        "instruction": "",
+        "input": "到家以后，我全身都湿透了，就像一只落汤鸡。",
+        "output": "负向",
+        "Source": "落汤鸡",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 258,
+        "instruction": "",
+        "input": "。基本路线要管一百年，动摇不得。",
+        "output": "负向",
+        "Source": "动摇",
+        "Target": "基本路线",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 259,
+        "instruction": "",
+        "input": "还有一朵朵腊梅花像一串串糖葫芦，江水在阳光照射下金光闪闪，江面上还有许多游船在行驶。",
+        "output": "正向",
+        "Source": "糖葫芦",
+        "Target": "腊梅花",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 260,
+        "instruction": "",
+        "input": "因为一点个人恩怨他就总不遗余力地攻击单位领导的失误",
+        "output": "负向",
+        "Source": "攻击",
+        "Target": "单位领导的失误",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 261,
+        "instruction": "",
+        "input": "小鸟一边自由自在的飞翔，一边唱着动听的歌",
+        "output": "正向",
+        "Source": "唱",
+        "Target": "小鸟",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 262,
+        "instruction": "",
+        "input": "它就像一条鞭子抽在这民族的脊梁，耻辱的怒火燃烧在每个人心上。",
+        "output": "负向",
+        "Source": "鞭子",
+        "Target": "它",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 263,
+        "instruction": "",
+        "input": "在对这个问题的看法上我们还要交换一下意见",
+        "output": "中性",
+        "Source": "交换",
+        "Target": "意见",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 264,
+        "instruction": "",
+        "input": "成长的岁月应该是五彩缤纷的、绚丽多姿的，然而，对于我——一个六年级的小学生来讲，成长更像一个五味瓶，酸、甜、苦、辣、咸，样样俱全。",
+        "output": "中性",
+        "Source": "五味瓶",
+        "Target": "成长",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 265,
+        "instruction": "",
+        "input": "历史告诉我们，告诉未来，邓小平建设有中国特色的社会主义理论，像灯塔照亮祖国的锦绣前程，党中央正带领全国人民努力践行“三个代表”，与时俱进，全面建设小康社会，走向美好未来。",
+        "output": "正向",
+        "Source": "灯塔",
+        "Target": "中国特色的社会主义理论",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 266,
+        "instruction": "",
+        "input": "如果失去了棕色，就如同失去了最得体的衣裳，咖啡会像穿着华美但不合身的少女，难登大雅之堂。",
+        "output": "负向",
+        "Source": "少女",
+        "Target": "咖啡",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 267,
+        "instruction": "",
+        "input": "有如许多的门槛要迈过，有如许多的条件不具备。",
+        "output": "负向",
+        "Source": "许多的门槛",
+        "Target": "许多的条件",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 268,
+        "instruction": "",
+        "input": "我从小生活在大山里，高高的板栗树是我的爸爸妈妈，为了保护我，爸爸妈妈为我搭了一个小房子，四周都是刺，像一个小刺猬。",
+        "output": "正向",
+        "Source": "刺猬",
+        "Target": "房子",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 269,
+        "instruction": "",
+        "input": "山上的树上积满了白雪，就像一位白发苍苍的老人。",
+        "output": "正向",
+        "Source": "老人",
+        "Target": "树",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 270,
+        "instruction": "",
+        "input": "人生就像一只航行于波峰与波谷之间的航船。",
+        "output": "中性",
+        "Source": "航船",
+        "Target": "人生",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 271,
+        "instruction": "",
+        "input": "﻿\"苦闷的日子更像旋转的木马在我的心中不停的转。\"",
+        "output": "负向",
+        "Source": "旋转的木马",
+        "Target": "日子",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 272,
+        "instruction": "",
+        "input": "每一次超越对手都是心的释放，是意志的飞跃，那种片刻的得意像火花般在内心迸发，燃烧着求胜的意念。",
+        "output": "正向",
+        "Source": "火花",
+        "Target": "得意",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 273,
+        "instruction": "",
+        "input": "站在东顶道观的至高点——父母殿前，向东方望去，灿烂的阳光下，起伏的丘陵像一头头跳跃的野兽向远方奔去。",
+        "output": "正向",
+        "Source": "野兽",
+        "Target": "丘陵",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 274,
+        "instruction": "",
+        "input": "花朵只有纽扣那样大，就像一小朵一小朵的火花。",
+        "output": "正向",
+        "Source": "火花",
+        "Target": "花朵",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 275,
+        "instruction": "",
+        "input": "我更生气了，眼睛瞪得像两个铃铛，死死的盯着爸爸，鼻子气得呼呼直冒热气，我拼命反抗，一边挣扎一边想着：难道他们没有想到我是多么的痛苦吗！",
+        "output": "负向",
+        "Source": "铃铛",
+        "Target": "眼睛",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 276,
+        "instruction": "",
+        "input": "萤火虫在草丛里飞来飞去，从远处看真像一颗颗星星啊！",
+        "output": "正向",
+        "Source": "星星",
+        "Target": "萤火虫",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 277,
+        "instruction": "",
+        "input": "这时，二（1）班的10号队员趁二（2）的队员不注意的时候，带球直插对方禁区，猛地把球踢向对方球门，二（2）班的守门员赶紧向球扑去，但已经迟了，球像箭一般射进了球门，二（2）班的7号队员看得惊呆了。",
+        "output": "正向",
+        "Source": "箭",
+        "Target": "球",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 278,
+        "instruction": "",
+        "input": "那是一个炎热的下午，太阳像个大火球烤着大地。",
+        "output": "负向",
+        "Source": "火球",
+        "Target": "太阳",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 279,
+        "instruction": "",
+        "input": "夏天的时候，那里大片的草地上全是绿茸茸的小草，草里夹着五颜六色的小花，像一块绿色的地毯上绣着零星的花，美不胜收。",
+        "output": "正向",
+        "Source": "地毯",
+        "Target": "草地",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 280,
+        "instruction": "",
+        "input": "这个场景串联起他的记忆。",
+        "output": "中性",
+        "Source": "串联",
+        "Target": "他的记忆",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 281,
+        "instruction": "",
+        "input": "她就像一轮无私奉献的太阳，我们就是一朵朵含苞欲放的花朵，在阳光的呵护和滋润下茁壮成长，竞相开放。",
+        "output": "正向",
+        "Source": "太阳",
+        "Target": "她",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 282,
+        "instruction": "",
+        "input": "爱上你就像爱上一匹野马，可我家里没有草原。",
+        "output": "中性",
+        "Source": "野马",
+        "Target": "你",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 283,
+        "instruction": "",
+        "input": "陈旧的楼梯在他一踏上去就沉重地叹息了一声",
+        "output": "负向",
+        "Source": "叹息",
+        "Target": "陈旧的楼梯",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 284,
+        "instruction": "",
+        "input": "他的眼珠转了转，露出了像狐狸一样的微笑。",
+        "output": "中性",
+        "Source": "狐狸",
+        "Target": "他",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 285,
+        "instruction": "",
+        "input": "以方又不顾美国要求其暂时冻结在西岸兴建犹太人定居点计划的建议",
+        "output": "中性",
+        "Source": "冻结",
+        "Target": "西岸兴建犹太人定居点计划的建议",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 286,
+        "instruction": "",
+        "input": "我们向那些装腔作势的人开火",
+        "output": "负向",
+        "Source": "开火",
+        "Target": "装腔作势的人",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 287,
+        "instruction": "",
+        "input": "平凡的艾晚活得就像爸爸买回来的水仙球，安静，低调，给一点点清水就心满意足，连开出来的花朵都是那种不张扬的芳香。",
+        "output": "正向",
+        "Source": "水仙球",
+        "Target": "艾晚",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 288,
+        "instruction": "",
+        "input": "如今，大理机场已变成一座漂亮整洁的花园",
+        "output": "正向",
+        "Source": "漂亮整洁的花园",
+        "Target": "大理机场",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 289,
+        "instruction": "",
+        "input": "中秋节最特别的当然就是月亮了，中秋节的月亮可谓是又圆又亮，像个大玉盘。",
+        "output": "正向",
+        "Source": "玉盘",
+        "Target": "月亮",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 290,
+        "instruction": "",
+        "input": "花刚开时，像个酒杯，半个小时，大了一圈，再过半个小时，又大了一圈，两个小时后，花全开了，大如茶碗！",
+        "output": "正向",
+        "Source": "酒杯",
+        "Target": "花",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 291,
+        "instruction": "",
+        "input": "海量的祝福早已把你淹没",
+        "output": "正向",
+        "Source": "淹没",
+        "Target": "海量的祝福",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 292,
+        "instruction": "",
+        "input": "而这快乐就像脚印一样永远跟在我们身后，永远伴随我们成长。",
+        "output": "正向",
+        "Source": "脚印",
+        "Target": "快乐",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 293,
+        "instruction": "",
+        "input": "只见大家个个欢呼雀跃地举起了小手，一排排小手像森林一样。",
+        "output": "正向",
+        "Source": "森林",
+        "Target": "手",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 294,
+        "instruction": "",
+        "input": "今晚月亮缺席了。",
+        "output": "负向",
+        "Source": "缺席",
+        "Target": "月亮",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 295,
+        "instruction": "",
+        "input": "我像一棵小树苗，被风吹的东倒西歪，被雨打的伤痕累累。",
+        "output": "负向",
+        "Source": "树苗",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 296,
+        "instruction": "",
+        "input": "天上的云朵像棉花糖。",
+        "output": "正向",
+        "Source": "棉花糖",
+        "Target": "天上的云朵",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 297,
+        "instruction": "",
+        "input": "人的天性犹如野生的花草，求知学习就像修剪移栽，而尝试则是完善个性，提升自我的唯一途径！",
+        "output": "正向",
+        "Source": "修剪移栽",
+        "Target": "求知学习",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 298,
+        "instruction": "",
+        "input": "在我的眼里，我的初中生活像一首交响乐曲，主旋律只有六个字：磨练·考验·挑战。",
+        "output": "正向",
+        "Source": "交响乐曲",
+        "Target": "生活",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 299,
+        "instruction": "",
+        "input": "我像一只活泼的小猴子，在宽广的大街上蹦蹦跳跳。",
+        "output": "正向",
+        "Source": "猴子",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 300,
+        "instruction": "",
+        "input": "远处一座座高山，像一位位士兵笔直笔直的站在那里。",
+        "output": "正向",
+        "Source": "士兵",
+        "Target": "高山",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 301,
+        "instruction": "",
+        "input": "我走在花的海洋中",
+        "output": "正向",
+        "Source": "海洋",
+        "Target": "花",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 302,
+        "instruction": "",
+        "input": "秋，就像一位平凡而美丽的少女，她不曾在世人面前炫耀，当秋风轻轻的吹过，世间万物轻轻的招摇！",
+        "output": "正向",
+        "Source": "少女",
+        "Target": "秋",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 303,
+        "instruction": "",
+        "input": "但老师们很＂轻松＂的为我们留下了像天上星星的数目一样的作业．所以每天的生活就只能是预习，上课，接下来就是不停的不停的啃一本又一本的参考书，埋着头写啊写，直到深夜．好象我们就是一台台答题的机器，在老师的“操纵“下写着作业。",
+        "output": "负向",
+        "Source": "星星的数目",
+        "Target": "作业",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 304,
+        "instruction": "",
+        "input": "天上的两朵白云亲在了一起",
+        "output": "正向",
+        "Source": "亲",
+        "Target": "白云",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 305,
+        "instruction": "",
+        "input": "当月亮像湿漉漉的兽爬到屋后时，外公拖泥带水地回来了。",
+        "output": "中性",
+        "Source": "兽",
+        "Target": "月亮",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 306,
+        "instruction": "",
+        "input": "欢乐涌入了他的心中",
+        "output": "正向",
+        "Source": "涌入",
+        "Target": "欢乐",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 307,
+        "instruction": "",
+        "input": "我品味着人生。",
+        "output": "正向",
+        "Source": "品味",
+        "Target": "人生",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 308,
+        "instruction": "",
+        "input": "铅笔盒忘带了”我像热锅上的蚂蚁急得团团转。",
+        "output": "负向",
+        "Source": "蚂蚁",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 309,
+        "instruction": "",
+        "input": "这些小兵打起来像割韭菜一样。",
+        "output": "中性",
+        "Source": "韭菜",
+        "Target": "小兵",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 310,
+        "instruction": "",
+        "input": "老师就像蜡烛，默默燃烧，用微弱的光芒，付出着，努力工作，不求回报。",
+        "output": "正向",
+        "Source": "蜡烛",
+        "Target": "老师",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 311,
+        "instruction": "",
+        "input": "一头钻在细微如针尖麦芒的字里行间颠来倒去",
+        "output": "中性",
+        "Source": "针尖麦芒",
+        "Target": "字里行间",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 312,
+        "instruction": "",
+        "input": "挽着时间一路走，连途中的风景都来不及回顾",
+        "output": "中性",
+        "Source": "挽着",
+        "Target": "时间",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 313,
+        "instruction": "",
+        "input": "车上不仅热得像个大蒸笼，还没有座位。",
+        "output": "负向",
+        "Source": "蒸笼",
+        "Target": "车上",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 314,
+        "instruction": "",
+        "input": "我觉得这些树叶就像美丽的蝴蝶。",
+        "output": "正向",
+        "Source": "蝴蝶",
+        "Target": "树叶",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 315,
+        "instruction": "",
+        "input": "当时我想，我们三个人要也像这三种颜色的叶子一样和睦平安该多好啊！",
+        "output": "正向",
+        "Source": "叶子",
+        "Target": "人",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 316,
+        "instruction": "",
+        "input": "就业的机会就是夜空中的流星。",
+        "output": "中性",
+        "Source": "夜空中的流星",
+        "Target": "就业的机会",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 317,
+        "instruction": "",
+        "input": "走了没多久，就远远地望见了几棵红栌，他们红得像黄昏中灿烂的晚霞。",
+        "output": "正向",
+        "Source": "晚霞",
+        "Target": "红栌",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 318,
+        "instruction": "",
+        "input": "大战之前的空气像冰一样",
+        "output": "负向",
+        "Source": "冰",
+        "Target": "大战之前的空气",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 319,
+        "instruction": "",
+        "input": "它在山崖树木之间穿梭时，简直像风一样，它的四肢很长，也很灵活。",
+        "output": "正向",
+        "Source": "风",
+        "Target": "它",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 320,
+        "instruction": "",
+        "input": "是谁在摧残着我们的孩子，祖国的花朵？",
+        "output": "正向",
+        "Source": "祖国的花朵",
+        "Target": "我们的孩子",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 321,
+        "instruction": "",
+        "input": "爱枯竭了。",
+        "output": "负向",
+        "Source": "枯竭",
+        "Target": "爱",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 322,
+        "instruction": "",
+        "input": "关心的祝福升温了",
+        "output": "正向",
+        "Source": "升温",
+        "Target": "关心的祝福",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 323,
+        "instruction": "",
+        "input": "听见眼泪在他心里翻腾",
+        "output": "负向",
+        "Source": "翻腾",
+        "Target": "眼泪",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 324,
+        "instruction": "",
+        "input": "那份心不会输给任何人，那份心会由我们这“长江后浪”来延续，像奥运圣火一样，直到海枯石烂，我们也要守护中国，为中国作出贡献！",
+        "output": "正向",
+        "Source": "圣火",
+        "Target": "心",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 325,
+        "instruction": "",
+        "input": "不一会儿洁白的雪花像鹅毛一样纷纷扬扬的飘下来了。",
+        "output": "正向",
+        "Source": "鹅毛",
+        "Target": "雪花",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 326,
+        "instruction": "",
+        "input": "不能让错误思想在社会上自由泛滥",
+        "output": "负向",
+        "Source": "泛滥",
+        "Target": "错误思想",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 327,
+        "instruction": "",
+        "input": "阿芙罗狄忒是美的化身。",
+        "output": "正向",
+        "Source": "美的化身",
+        "Target": "阿芙罗狄忒",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 328,
+        "instruction": "",
+        "input": "他开始飞奔，宛如脱缰骏马。",
+        "output": "正向",
+        "Source": "脱缰骏马",
+        "Target": "他",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 329,
+        "instruction": "",
+        "input": "看着这一切，我不禁想起了我的妈妈，想起了小时候的我像雪花一样扑进母亲怀里时的情景。",
+        "output": "正向",
+        "Source": "雪花",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 330,
+        "instruction": "",
+        "input": "裁判一发令，我们四个像离弦之箭般冲出去。",
+        "output": "正向",
+        "Source": "箭",
+        "Target": "我们",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 331,
+        "instruction": "",
+        "input": "再看看她的坐姿，简直像一根绷紧的弹簧。",
+        "output": "中性",
+        "Source": "弹簧",
+        "Target": "坐姿",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 332,
+        "instruction": "",
+        "input": "记忆里的欢笑已褪色，一切都像过眼云烟般飘然远逝，我们只是彼此生命中的过客，人生旅途中的某一站风景，我们不可能会一直为谁守候在原地，谁也没有权力怪谁不记得谁，一切都会改变，当忘记已成为一种习惯，离别便不会泪流满面。",
+        "output": "负向",
+        "Source": "过眼云烟",
+        "Target": "一切",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 333,
+        "instruction": "",
+        "input": "\"绵绵的春雨像一位姑娘在倾吐自己的心事，我没有躲避让春雨尽情湿润我的面庞，雨停了我抬头仰望碧空如洗蓝得让人心碎，哦春天是蓝色的！\"",
+        "output": "正向",
+        "Source": "姑娘",
+        "Target": "春雨",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 334,
+        "instruction": "",
+        "input": "喜鹊又说：“你要像小蜜蜂那样，勤劳地工作，人们才不会捉你。",
+        "output": "正向",
+        "Source": "蜜蜂",
+        "Target": "你",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 335,
+        "instruction": "",
+        "input": "他黑了某公司的服务器。",
+        "output": "负向",
+        "Source": "黑",
+        "Target": "某公司的服务器",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 336,
+        "instruction": "",
+        "input": "朋友像冬日里的一束暖阳，带给你光亮和温暖。",
+        "output": "正向",
+        "Source": "暖阳",
+        "Target": "朋友",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 337,
+        "instruction": "",
+        "input": "在寂寞宁静的海底，珊瑚就像是一个沐浴在爱情之中的女子，每一丝每一缕都是生命，每一分每一寸都是光彩。",
+        "output": "正向",
+        "Source": "女子",
+        "Target": "珊瑚",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 338,
+        "instruction": "",
+        "input": "痛，一直是痛，我忘不了，那像一根针扎入我心中的痛。",
+        "output": "负向",
+        "Source": "针",
+        "Target": "痛",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 339,
+        "instruction": "",
+        "input": "我像是流浪的疯狗见到了可口的美食一样，囫囵吞枣地看完了金庸所有的长篇，而古龙的楚留香系列，陆小凤系列，小李飞刀系列等都是我的最爱。",
+        "output": "中性",
+        "Source": "疯狗",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 340,
+        "instruction": "",
+        "input": "时间不断流逝，就像光一样，谁也抓不住它，只能任它走掉，跑掉，我能做的只有抓紧每一分每一秒的时间，去创造我们自己现在能够做到的事情。",
+        "output": "负向",
+        "Source": "光",
+        "Target": "时间",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 341,
+        "instruction": "",
+        "input": "感情破裂不一定非有什么理由",
+        "output": "负向",
+        "Source": "破裂",
+        "Target": "感情",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 342,
+        "instruction": "",
+        "input": "然而这些人就像刚结出的花骨朵一样，时时刻刻准备绽放自己。",
+        "output": "正向",
+        "Source": "花骨朵",
+        "Target": "人",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 343,
+        "instruction": "",
+        "input": "我的梦想是给我一双翅膀，让我像小鸟一样在蓝蓝的天空自由地飞翔。",
+        "output": "正向",
+        "Source": "小鸟",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 344,
+        "instruction": "",
+        "input": "生活有时候平静的会像一口枯井，也许你也会掉进这口枯井里去，也许你没有天荒地老、海枯石烂的爱情，也许华发早生、满鬓苍白，但是有了这样的一位朋友，在你的生命中就会有些许涟漪，些许色彩，你想着他。",
+        "output": "负向",
+        "Source": "枯井",
+        "Target": "生活",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 345,
+        "instruction": "",
+        "input": "那脚步半路停止，心也给它踏住不敢动",
+        "output": "负向",
+        "Source": "踏住",
+        "Target": "心",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 346,
+        "instruction": "",
+        "input": "黄河在咆哮。",
+        "output": "中性",
+        "Source": "咆哮",
+        "Target": "黄河",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 347,
+        "instruction": "",
+        "input": "它们像一盏盏指路灯，或多或少地给我以帮助，其中最令我难忘的是这一句：“抛弃时间的人，时间也抛弃他——莎士比亚”。",
+        "output": "正向",
+        "Source": "指路灯",
+        "Target": "它们",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 348,
+        "instruction": "",
+        "input": "XX年6月26日晚8时16分，北京奥运会主题口号像一粒种子，深深扎根在这片融汇了五大洲梦想的圣土上！",
+        "output": "正向",
+        "Source": "种子",
+        "Target": "口号",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 349,
+        "instruction": "",
+        "input": "他就是一块木头。",
+        "output": "负向",
+        "Source": "木头",
+        "Target": "他",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 350,
+        "instruction": "",
+        "input": "歌特，就像是人类的镜子，清晰地映着人类最真实的一面。",
+        "output": "中性",
+        "Source": "镜子",
+        "Target": "歌特",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 351,
+        "instruction": "",
+        "input": "春天的脚步在奔走，奔跑，万紫千红的花朵，像是在开花之会。",
+        "output": "正向",
+        "Source": "脚步",
+        "Target": "春天",
+        "Type": "ATTRIBUTE-NOUN"
+    },
+    {
+        "id": 352,
+        "instruction": "",
+        "input": "他正在给伤口上药。",
+        "output": "正向",
+        "Source": "上药",
+        "Target": "伤口",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 353,
+        "instruction": "",
+        "input": "半生中的记忆在盘旋",
+        "output": "中性",
+        "Source": "盘旋",
+        "Target": "半生中的记忆",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 354,
+        "instruction": "",
+        "input": "她穿着白色的百褶裙像一朵盛开的栀子花",
+        "output": "正向",
+        "Source": "盛开的栀子花",
+        "Target": "她",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 355,
+        "instruction": "",
+        "input": "梨树上一簇簇雪白雪白的梨花，就像蓝天下的团团白云。",
+        "output": "正向",
+        "Source": "白云",
+        "Target": "梨花",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 356,
+        "instruction": "",
+        "input": "我要像水一样，只要有一点空隙，就一定要钻过去！",
+        "output": "正向",
+        "Source": "水",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 357,
+        "instruction": "",
+        "input": "这名运动员破了世界纪录",
+        "output": "正向",
+        "Source": "破",
+        "Target": "世界纪录",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 358,
+        "instruction": "",
+        "input": "西风被激怒了，雄性大发，疯狂地肆无羁惮地像瞪着血红眼的斗牛，扑天盖地地袭来，欲破坏一切，压倒一切。",
+        "output": "负向",
+        "Source": "斗牛",
+        "Target": "西风",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 359,
+        "instruction": "",
+        "input": "滑着滑着就满头大汗了，我摘下帽子，脑袋像个水鸭子。",
+        "output": "中性",
+        "Source": "水鸭子",
+        "Target": "脑袋",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 360,
+        "instruction": "",
+        "input": "我看者你站在原地，你低着头向前走，不一会儿你似乎察觉到了，抬起头，看见旁边没有人，很着急地喊着，转过身看见了我，然后脸上露出了笑容，看见我像落汤鸡一样站在那里，带着歉意的说：“对不起，又让你陪我淋雨了。",
+        "output": "负向",
+        "Source": "落汤鸡",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 361,
+        "instruction": "",
+        "input": "一声令下，把我们拉回现实，二十多个连排成一列绕着四百米跑道接受领导检阅，雨点打在我们的脸上、眼上，睫毛上的水凝成一大滴，然后像泥石流冲破睫毛的阻碍，奔泻入眉下的深沟中，眼前即刻形成一片水雾，整个世界都好象浸泡在水中。",
+        "output": "中性",
+        "Source": "泥石流",
+        "Target": "水",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 362,
+        "instruction": "",
+        "input": "秋天的枫树，美丽至极，枫叶纷纷从树上飘落下来，像是红绸在飘舞，让凉爽的秋天更加富有生机。",
+        "output": "正向",
+        "Source": "红绸",
+        "Target": "枫叶",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 363,
+        "instruction": "",
+        "input": "汤姆的腿像树枝一样。",
+        "output": "中性",
+        "Source": "树枝",
+        "Target": "汤姆的腿",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 364,
+        "instruction": "",
+        "input": "可是一看见别人在水中像鱼似的，快乐的游来游去，就忍不住也想试一试。",
+        "output": "正向",
+        "Source": "鱼",
+        "Target": "别人",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 365,
+        "instruction": "",
+        "input": "它有金黄色的外衣，椭圆形的外表，像一个球，用手摸一摸它是滑滑的。",
+        "output": "中性",
+        "Source": "球",
+        "Target": "它",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 366,
+        "instruction": "",
+        "input": "小园草地里的小虫琐琐屑屑地在夜谈",
+        "output": "中性",
+        "Source": "夜谈",
+        "Target": "小园草地里的小虫",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 367,
+        "instruction": "",
+        "input": "童年是无忧无虑的，就像整日嬉闹的浪花。",
+        "output": "正向",
+        "Source": "浪花",
+        "Target": "童年",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 368,
+        "instruction": "",
+        "input": "大海就像是蓝天，那么的大那么的蓝。",
+        "output": "正向",
+        "Source": "蓝天",
+        "Target": "大海",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 369,
+        "instruction": "",
+        "input": "我们大言不惭的在风中宣布，宣布我们已经长大，宣布我们无所畏惧，宣布我们已经看破红尘俗世，却也宣布我们像个小丑，笑给别人看，哭给自己听。",
+        "output": "负向",
+        "Source": "小丑",
+        "Target": "我们",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 370,
+        "instruction": "",
+        "input": "“二月春风似剪刀”，春天就像是美妙的剪刀，剪出了最漂亮的风景。",
+        "output": "正向",
+        "Source": "剪刀",
+        "Target": "春天",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 371,
+        "instruction": "",
+        "input": "大姐就像一枝红灿灿的花，在众人的羡慕下更加笑面如花了，人们习惯去欣赏那妖艳的花，而忽视了红花下的绿叶。",
+        "output": "正向",
+        "Source": "花",
+        "Target": "大姐",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 372,
+        "instruction": "",
+        "input": "热气球越飞越高，最后飞到了天空中，小朋友们在天空中过节日，小朋友们坐到云朵上，蹦啊蹦，像一只活蹦乱跳的小猴子一样。",
+        "output": "正向",
+        "Source": "猴子",
+        "Target": "小朋友",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 373,
+        "instruction": "",
+        "input": "心静了下来，我仿佛看见了雨丝在湖面上旋舞，溅起的小水浪就像是它的伴奏，叮叮铃铃的，它们合作的天衣无缝。",
+        "output": "正向",
+        "Source": "伴奏",
+        "Target": "水浪",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 374,
+        "instruction": "",
+        "input": "人生的诱惑，好比权利金钱名利之类，就像是各式各样的咖啡杯，而当我们迟疑着该选哪个时，就已经上了当！",
+        "output": "负向",
+        "Source": "咖啡杯",
+        "Target": "诱惑",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 375,
+        "instruction": "",
+        "input": "８日在多伦多法庭上的审讯，是伊格尔森从天堂跌入地狱的转折点",
+        "output": "负向",
+        "Source": "转折点",
+        "Target": "审讯",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 376,
+        "instruction": "",
+        "input": "她坚信，耐心细致的教育会像阳光雨露滋润孩子们的心田。",
+        "output": "正向",
+        "Source": "阳光雨露",
+        "Target": "教育",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 377,
+        "instruction": "",
+        "input": "你因为软弱才一再回避厂里的这些矛盾",
+        "output": "负向",
+        "Source": "回避",
+        "Target": "矛盾",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 378,
+        "instruction": "",
+        "input": "经过我的点醒，族人们纷纷感到又倦又气，他们团团围住丹柯，像狼一样围住猎物，森林胜利般的喧响，我看着这群愚蠢的族人一步一步实现我的计划，他们对着丹柯大声叫嚷，你——该死！",
+        "output": "负向",
+        "Source": "狼",
+        "Target": "他们",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 379,
+        "instruction": "",
+        "input": "由经济发展的指导方针升华为社会主义初级阶段的基本经济制度",
+        "output": "正向",
+        "Source": "升华",
+        "Target": "经济发展的指导方针",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 380,
+        "instruction": "",
+        "input": "那时你塞着耳机安静地听着MP3，安静得像一个天使。",
+        "output": "正向",
+        "Source": "天使",
+        "Target": "你",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 381,
+        "instruction": "",
+        "input": "夕阳流淌在布达拉宫蜿蜒迤丽的墙碟",
+        "output": "正向",
+        "Source": "流淌",
+        "Target": "夕阳",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 382,
+        "instruction": "",
+        "input": "劳动的欢笑声，洒满金马河堤",
+        "output": "正向",
+        "Source": "洒满",
+        "Target": "劳动的欢笑声",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 383,
+        "instruction": "",
+        "input": "微风轻抚着脸颊。",
+        "output": "正向",
+        "Source": "轻抚",
+        "Target": "微风",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 384,
+        "instruction": "",
+        "input": "他枪毙了他的提案。",
+        "output": "负向",
+        "Source": "枪毙",
+        "Target": "他的提案",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 385,
+        "instruction": "",
+        "input": "您的笑容就是阳光下盛开的百合花。",
+        "output": "正向",
+        "Source": "阳光下盛开的百合花",
+        "Target": "您的笑容",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 386,
+        "instruction": "",
+        "input": "前方的路很长，父亲的爱会一直伴我左右，永远为我做向导，就像隐形的翅膀。",
+        "output": "正向",
+        "Source": "翅膀",
+        "Target": "爱",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 387,
+        "instruction": "",
+        "input": "描绘或者甚至设想你的文章是在猜谜语",
+        "output": "中性",
+        "Source": "谜语",
+        "Target": "你的文章",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 388,
+        "instruction": "",
+        "input": "一下车，我们就像一只只刚出笼的小鸟飞进了她家。",
+        "output": "正向",
+        "Source": "小鸟",
+        "Target": "我们",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 389,
+        "instruction": "",
+        "input": "我像是一个流浪者，久别回来，能够嗅到曾经的气息，却再也想不起曾经的故事，曾经的情感了。",
+        "output": "负向",
+        "Source": "流浪者",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 390,
+        "instruction": "",
+        "input": "老师厉声问道，“我”我被问得哑口无言，脸像个苹果似的，憋的通红，要知道，我以前是从来没被老师批评过的，可今天。",
+        "output": "负向",
+        "Source": "苹果",
+        "Target": "脸",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 391,
+        "instruction": "",
+        "input": "我们上岛的时候看见一条狗，一条毛色黑得像闪电的年轻的狗。",
+        "output": "中性",
+        "Source": "闪电",
+        "Target": "毛色",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 392,
+        "instruction": "",
+        "input": "时间是一把杀猪刀，在你的眼角刻下了纹路。",
+        "output": "负向",
+        "Source": "杀猪刀",
+        "Target": "时间",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 393,
+        "instruction": "",
+        "input": "你就像是酷暑里的一片浓阴",
+        "output": "正向",
+        "Source": "浓阴",
+        "Target": "你",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 394,
+        "instruction": "",
+        "input": "珍惜生命生命就不会像浪花一闪而过！",
+        "output": "负向",
+        "Source": "浪花",
+        "Target": "生命",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 395,
+        "instruction": "",
+        "input": "我的心如一把火",
+        "output": "正向",
+        "Source": "火",
+        "Target": "我的心",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 396,
+        "instruction": "",
+        "input": "我国跃进了改革开放的新时期。",
+        "output": "正向",
+        "Source": "跃进",
+        "Target": "改革开放的新时期",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 397,
+        "instruction": "",
+        "input": "太阳像一个西瓜，外面有几百条龙在保护着它！",
+        "output": "中性",
+        "Source": "西瓜",
+        "Target": "太阳",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 398,
+        "instruction": "",
+        "input": "一片片的落叶被秋风卷到空中，就像一只只轻盈的蝴蝶，在互相述说校园美丽的秋色。",
+        "output": "正向",
+        "Source": "蝴蝶",
+        "Target": "落叶",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 399,
+        "instruction": "",
+        "input": "人类的大脑是一台机器。",
+        "output": "中性",
+        "Source": "机器",
+        "Target": "人类的大脑",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 400,
+        "instruction": "",
+        "input": "他给我们透出了一点消息",
+        "output": "中性",
+        "Source": "透出",
+        "Target": "消息",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 401,
+        "instruction": "",
+        "input": "我在原点处徘徊，不知下一步该往哪个地方迈去，就像大海中一只飘流的小船，没有方向，没有目标。",
+        "output": "负向",
+        "Source": "小船",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 402,
+        "instruction": "",
+        "input": "她的脸像qq糖，摸起来软软的。",
+        "output": "正向",
+        "Source": "qq糖",
+        "Target": "她的脸",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 403,
+        "instruction": "",
+        "input": "考生解题时卡壳了",
+        "output": "负向",
+        "Source": "卡壳",
+        "Target": "考生",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 404,
+        "instruction": "",
+        "input": "他的表情像着了火",
+        "output": "中性",
+        "Source": "着了火",
+        "Target": "他的表情",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 405,
+        "instruction": "",
+        "input": "隔着窗，雨一直在跳舞。",
+        "output": "正向",
+        "Source": "跳舞",
+        "Target": "雨",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 406,
+        "instruction": "",
+        "input": "那个马好像是一头牛",
+        "output": "中性",
+        "Source": "牛",
+        "Target": "马",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 407,
+        "instruction": "",
+        "input": "我觉得自己仿佛就是掉进了一个巨大的旋涡中，用一种模式重复着消耗着我的青春，没有了喧闹的生活，它失去了精彩和活力，静的像一摊死水。",
+        "output": "负向",
+        "Source": "死水",
+        "Target": "青春",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 408,
+        "instruction": "",
+        "input": "老人拉得并不好，还总是把许多曲子串在一起，凌乱得就像满地的杂草。",
+        "output": "负向",
+        "Source": "杂草",
+        "Target": "曲子",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 409,
+        "instruction": "",
+        "input": "因为，这时的小鸡眯着眼睛，全身呈金黄色，走路来摇摇晃晃，像酒后的醉汉一样。",
+        "output": "中性",
+        "Source": "醉汉",
+        "Target": "小鸡",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 410,
+        "instruction": "",
+        "input": "太阳照着湖面氧气的波纹像一串串金灿灿的项链。",
+        "output": "正向",
+        "Source": "项链",
+        "Target": "波纹",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 411,
+        "instruction": "",
+        "input": "岁月就犹如一程寂寞漫长的孤旅",
+        "output": "负向",
+        "Source": "寂寞漫长的孤旅",
+        "Target": "岁月",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 412,
+        "instruction": "",
+        "input": "那柳条丝丝缕缕，那么细，那么柔，多么像一位迷人的小天使的辫子呀！",
+        "output": "正向",
+        "Source": "辫子",
+        "Target": "柳条",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 413,
+        "instruction": "",
+        "input": "法律不但无用武之地，反而成为枷锁。",
+        "output": "负向",
+        "Source": "枷锁",
+        "Target": "法律",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 414,
+        "instruction": "",
+        "input": "﻿蓝色的星光映在她澄澈的眼眸上，她的眼睛像是一个成熟了的大大的葡萄。",
+        "output": "正向",
+        "Source": "葡萄",
+        "Target": "眼睛",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 415,
+        "instruction": "",
+        "input": "您总是默默地守护我，像一位天使，我被浓浓的父爱包围了。",
+        "output": "正向",
+        "Source": "天使",
+        "Target": "您",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 416,
+        "instruction": "",
+        "input": "春天到了，大地变成了一片绿毯",
+        "output": "正向",
+        "Source": "绿毯",
+        "Target": "大地",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 417,
+        "instruction": "",
+        "input": "人生是小舟",
+        "output": "中性",
+        "Source": "小舟",
+        "Target": "人生",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 418,
+        "instruction": "",
+        "input": "幸福是阳光，能给寒冷的人以温暖。",
+        "output": "正向",
+        "Source": "阳光",
+        "Target": "幸福",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 419,
+        "instruction": "",
+        "input": "倾斜坍塌的穹顶是你汹涌起的哭泣。",
+        "output": "负向",
+        "Source": "汹涌起的哭泣",
+        "Target": "倾斜坍塌的穹顶",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 420,
+        "instruction": "",
+        "input": "被告招了所有罪行",
+        "output": "中性",
+        "Source": "招",
+        "Target": "罪行",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 421,
+        "instruction": "",
+        "input": "89岁的肖倩，仍然是一匹生气勃勃的野马",
+        "output": "正向",
+        "Source": "生气勃勃的野马",
+        "Target": "89岁的肖倩",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 422,
+        "instruction": "",
+        "input": "时光就像海洋上漂泊的船只，一直顺着水流的方向往下游。",
+        "output": "中性",
+        "Source": "船只",
+        "Target": "时光",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 423,
+        "instruction": "",
+        "input": "突然线断了，急的我们像兔子一样乱蹦乱跳，不知如何是好。",
+        "output": "负向",
+        "Source": "兔子",
+        "Target": "我们",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 424,
+        "instruction": "",
+        "input": "人生恰如三月花，倾我一生一世恋。",
+        "output": "正向",
+        "Source": "三月花",
+        "Target": "人生",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 425,
+        "instruction": "",
+        "input": "鸭子们在池塘里洗澡，嬉戏，快乐极了，像无忧无虑的孩子们。",
+        "output": "正向",
+        "Source": "孩子",
+        "Target": "鸭子",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 426,
+        "instruction": "",
+        "input": "这儿有像酒瓶一样的椰子树，有全身穿着软甲的罗比亲王海刺，还有裹着一身铠甲的蒲葵。",
+        "output": "中性",
+        "Source": "酒瓶",
+        "Target": "椰子树",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 427,
+        "instruction": "",
+        "input": "黄土地从这一刻沸腾起来了，就像那一片红红的高粱地，火一样的炙热。",
+        "output": "正向",
+        "Source": "高粱地",
+        "Target": "黄土地",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 428,
+        "instruction": "",
+        "input": "作为军队的旧长官老头现在还经常耍威风",
+        "output": "负向",
+        "Source": "耍",
+        "Target": "威风",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 429,
+        "instruction": "",
+        "input": "花开终有话落时，一周后，丰满的花儿一一羸弱了，像是玩疲了的蝴蝶安然地睡下。",
+        "output": "中性",
+        "Source": "蝴蝶",
+        "Target": "花儿",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 430,
+        "instruction": "",
+        "input": "从宏观上来看，小卖部方圆20米内人挤人挤得像压缩饼干。",
+        "output": "中性",
+        "Source": "压缩饼干",
+        "Target": "人",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 431,
+        "instruction": "",
+        "input": "每到雨燕剪春的季节，一抹嫩芽就从柿子树的枝头悄悄绽放，有了梦想，有了活力，一抹绿让春天的校园多了一个报春的使者，像一位衣抉翩翩的姑娘，款款而来，让校园有了勃勃生机的活力，充满了浓墨重彩的魅力。",
+        "output": "正向",
+        "Source": "姑娘",
+        "Target": "嫩芽",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 432,
+        "instruction": "",
+        "input": "间谍由于说美国口音而露出了马脚。",
+        "output": "负向",
+        "Source": "马",
+        "Target": "间谍",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 433,
+        "instruction": "",
+        "input": "我生活中的往事，像天上的星星，有很多很多。",
+        "output": "正向",
+        "Source": "星星",
+        "Target": "往事",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 434,
+        "instruction": "",
+        "input": "太阳是一团火。",
+        "output": "中性",
+        "Source": "火",
+        "Target": "太阳",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 435,
+        "instruction": "",
+        "input": "我家左边有一个公园，叫新苹公园，一进去就看到一棵棵的大树像一排排哨兵守护着新苹公园，如果你走进花丛里去，蝴蝶就会飞到你的头上和你嬉戏。",
+        "output": "正向",
+        "Source": "哨兵",
+        "Target": "大树",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 436,
+        "instruction": "",
+        "input": "原来，飞棍就像大自然的海市蜃楼，奇异、美丽却虚无，不知何时会脱下诱人神秘的外套。",
+        "output": "中性",
+        "Source": "海市蜃楼",
+        "Target": "飞棍",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 437,
+        "instruction": "",
+        "input": "他像离弦的箭一样跑过去",
+        "output": "中性",
+        "Source": "离弦的箭",
+        "Target": "他",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 438,
+        "instruction": "",
+        "input": "他是随风就倒的小草。",
+        "output": "负向",
+        "Source": "随风就倒的小草",
+        "Target": "他",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 439,
+        "instruction": "",
+        "input": "海浪从水天相接的地方匆忙地跑来，那声音真像是舞台下观众们那一个接着一个的掌声。",
+        "output": "正向",
+        "Source": "掌声",
+        "Target": "声音",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 440,
+        "instruction": "",
+        "input": "果然因为那个严重的错误，他被老板炒掉了",
+        "output": "负向",
+        "Source": "炒掉",
+        "Target": "他",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 441,
+        "instruction": "",
+        "input": "冷嘲热讽，像一场狂风暴雨向你袭来，你面无表情地说，湮没在黑白的深渊里，万丈悬崖，就这么义无反顾的落了下来，我也不想这样，可是无能为力啊。",
+        "output": "负向",
+        "Source": "狂风暴雨",
+        "Target": "冷嘲热讽",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 442,
+        "instruction": "",
+        "input": "你再不来，我要下雪了。",
+        "output": "负向",
+        "Source": "下雪",
+        "Target": "我",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 443,
+        "instruction": "",
+        "input": "它的果肉一小粒一小粒分开来，像一颗颗“红宝石”。",
+        "output": "正向",
+        "Source": "红宝石",
+        "Target": "果肉",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 444,
+        "instruction": "",
+        "input": "我拿起风筝，像一匹脱缰的野马在田埂上狂奔。",
+        "output": "正向",
+        "Source": "野马",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 445,
+        "instruction": "",
+        "input": "软泥上的青草，油油的在水底招摇",
+        "output": "正向",
+        "Source": "招摇",
+        "Target": "软泥上的青草",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 446,
+        "instruction": "",
+        "input": "冰雪皑皑，也盖不住他火一般的内心",
+        "output": "正向",
+        "Source": "火",
+        "Target": "内心",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 447,
+        "instruction": "",
+        "input": "不过他们一离开，我立刻冲上楼，埋在枕头里委屈地哭。",
+        "output": "负向",
+        "Source": "埋在",
+        "Target": "枕头",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 448,
+        "instruction": "",
+        "input": "深夜，我正在背书，爸爸已经把遥控汽车放在了熟睡的弟弟的床头，爸爸妈妈看着像小鹿一样温顺可爱的弟弟，对视一笑。",
+        "output": "正向",
+        "Source": "鹿",
+        "Target": "弟弟",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 449,
+        "instruction": "",
+        "input": "国家送我去国外留学，不是让我去镀金，而是让我学真本领",
+        "output": "负向",
+        "Source": "镀金",
+        "Target": "我",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 450,
+        "instruction": "",
+        "input": "天灰沉沉的，在重重黑云的压迫下，它暗得可怜，就像一位佝偻着背奄奄一息的老人，辛苦地苟延残踹着，让人的心随之沉入到了谷底。",
+        "output": "负向",
+        "Source": "老人",
+        "Target": "天",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 451,
+        "instruction": "",
+        "input": "我们必须塑造理想的人格",
+        "output": "正向",
+        "Source": "塑造",
+        "Target": "理想的人格",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 452,
+        "instruction": "",
+        "input": "弯弯曲曲的道路像是坎坎坷坷的人生，每一次坐车都是一次旅行。",
+        "output": "中性",
+        "Source": "人生",
+        "Target": "道路",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 453,
+        "instruction": "",
+        "input": "警察终止了这场闹剧",
+        "output": "正向",
+        "Source": "终止",
+        "Target": "闹剧",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 454,
+        "instruction": "",
+        "input": "早晨出去还是个人，这时候怎么变成刺猬了",
+        "output": "负向",
+        "Source": "刺猬",
+        "Target": "人",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 455,
+        "instruction": "",
+        "input": "一则谜语，传递了十二生肖神奇的韵味。",
+        "output": "正向",
+        "Source": "传递",
+        "Target": "谜语",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 456,
+        "instruction": "",
+        "input": "在某些时候我很想见到她，想念的思绪像夏天的野草一样疯长。",
+        "output": "正向",
+        "Source": "野草",
+        "Target": "思绪",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 457,
+        "instruction": "",
+        "input": "他的眼中有星辰大海",
+        "output": "正向",
+        "Source": "星辰大海",
+        "Target": "他的眼",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 458,
+        "instruction": "",
+        "input": "他跟狗皮膏药似的",
+        "output": "负向",
+        "Source": "狗皮膏药",
+        "Target": "他",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 459,
+        "instruction": "",
+        "input": "比如螳螂小小的头、长长的身体它的两个前腿就像两把大砍刀上面布满了锯刺这是它用来捕捉猎物的武器。",
+        "output": "中性",
+        "Source": "刀",
+        "Target": "腿",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 460,
+        "instruction": "",
+        "input": "在我5岁的时候，生了一场大病，高烧39度多，嗓子又红又肿，咽什么都疼，这时的妈妈急得像热锅上的蚂蚁，天天给我端药送水，恨不得把病转到她的身上。",
+        "output": "正向",
+        "Source": "蚂蚁",
+        "Target": "妈妈",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 461,
+        "instruction": "",
+        "input": "艺术家流产作品相当之多。",
+        "output": "负向",
+        "Source": "流产",
+        "Target": "作品",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 462,
+        "instruction": "",
+        "input": "一阵微风吹来，粉色的花瓣随风舞动，有的甚至飘落下来，真像下了一场粉红色的雨！",
+        "output": "正向",
+        "Source": "雨",
+        "Target": "花瓣",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 463,
+        "instruction": "",
+        "input": "我喜欢红色，因为它表示了热情和奔放，但我也喜欢绿色，热爱大自然的一草一木，一山一水，我要像小草那样刚强，顽石那样有毅力，这些都能让我从中获取力量，促使我向愿望前进。",
+        "output": "正向",
+        "Source": "草",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 464,
+        "instruction": "",
+        "input": "老局长让咱们压压阵脚",
+        "output": "中性",
+        "Source": "压",
+        "Target": "阵脚",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 465,
+        "instruction": "",
+        "input": "我不再瞧不起清洁工了，反而觉得清洁工很伟大，他们的工作是那么普通、平凡，可她们却一直无怨无悔、默默无闻地为人民服务，不就像我们平常饮用的一杯白开水吗？",
+        "output": "正向",
+        "Source": "白开水",
+        "Target": "清洁工",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 466,
+        "instruction": "",
+        "input": "由于共同的志趣我俩建立了深厚的友谊",
+        "output": "正向",
+        "Source": "建立",
+        "Target": "深厚的友谊",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 467,
+        "instruction": "",
+        "input": "在国际金融危机的风浪波及许多国家的情况下。",
+        "output": "负向",
+        "Source": "风浪",
+        "Target": "国际金融危机",
+        "Type": "ATTRIBUTE-NOUN"
+    },
+    {
+        "id": 468,
+        "instruction": "",
+        "input": "我遇见了你，在花儿一样的年纪。",
+        "output": "正向",
+        "Source": "花儿",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 469,
+        "instruction": "",
+        "input": "她的鼻子小小的，她笑起来的时候，嘴巴往上翘着，真像弯弯的小香蕉。",
+        "output": "正向",
+        "Source": "香蕉",
+        "Target": "嘴巴",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 470,
+        "instruction": "",
+        "input": "任何人都不能污染她",
+        "output": "负向",
+        "Source": "污染",
+        "Target": "她",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 471,
+        "instruction": "",
+        "input": "他算计过我好几次了",
+        "output": "负向",
+        "Source": "算计",
+        "Target": "我",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 472,
+        "instruction": "",
+        "input": "“咣”的一声，小鸟猛地一撞想从笼杆间飞走，然而，它的生命就像秋天里的落叶一般凋零了！",
+        "output": "负向",
+        "Source": "落叶",
+        "Target": "生命",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 473,
+        "instruction": "",
+        "input": "底裤的白边露出来，好像洁白的，柔软的羽毛。",
+        "output": "正向",
+        "Source": "洁白的，柔软的羽毛",
+        "Target": "底裤的白边",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 474,
+        "instruction": "",
+        "input": "随着我的年龄增长，阅读量也大大增加，当然，我的知识也成正比的增加，就像一个扁扁的小气球，被人越吹越大，最终变成了一个大气球。",
+        "output": "正向",
+        "Source": "气球",
+        "Target": "知识",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 475,
+        "instruction": "",
+        "input": "为维护广大群众的利益",
+        "output": "正向",
+        "Source": "维护",
+        "Target": "广大群众的利益",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 476,
+        "instruction": "",
+        "input": "在社会大潮中，一些人看别人时就像是在看一群一眼即穿的骷髅，但他们却不知道，在另一群人眼中，他们又何尝不是骷髅呢？",
+        "output": "负向",
+        "Source": "骷髅",
+        "Target": "别人",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 477,
+        "instruction": "",
+        "input": "这些都已成往事了，在初中的三年就像漫天花屑，站在新的起点目送它远去，知道自己才真正长大了，起码懂得珍惜过去的每一秒，起码知道就算爱也不得不放弃，起码梦的重量不再左右跋涉的方向。",
+        "output": "中性",
+        "Source": "花屑",
+        "Target": "三年",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 478,
+        "instruction": "",
+        "input": "刘翔像平原上疯狂的豹子，开始狂奔，一步，两步，三步，右腿向上抬到最高点，啪！",
+        "output": "正向",
+        "Source": "豹子",
+        "Target": "刘翔",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 479,
+        "instruction": "",
+        "input": "我也要像丑小鸭一样，靠自己的努力，走向成功的彼岸。",
+        "output": "正向",
+        "Source": "丑小鸭",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 480,
+        "instruction": "",
+        "input": "这在危险时候，老麻雀突然从树上扑了下来，像一块大石头，挡在大猎狗面前，竖起全身的羽毛，发出绝望的尖叫声，准备进行一场搏斗。",
+        "output": "正向",
+        "Source": "石头",
+        "Target": "麻雀",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 481,
+        "instruction": "",
+        "input": "背上漂亮的小书包，唱着欢快的歌曲，我像小鸟一样向学校走去，鲜艳的五星红旗在操场上迎风飘扬，作为一位中国的小学生，我多么自豪啊！",
+        "output": "正向",
+        "Source": "小鸟",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 482,
+        "instruction": "",
+        "input": "低工资是这个国家经济发展现阶段的一张王牌",
+        "output": "正向",
+        "Source": "王牌",
+        "Target": "低工资",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 483,
+        "instruction": "",
+        "input": "心并不在身体里，当你思念某个人的时候，心就产生了",
+        "output": "中性",
+        "Source": "产生",
+        "Target": "心",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 484,
+        "instruction": "",
+        "input": "她的嘴角像一弯月牙。",
+        "output": "正向",
+        "Source": "月牙",
+        "Target": "她的嘴角",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 485,
+        "instruction": "",
+        "input": "在这个充满梦想的年龄，我们的思想像关不住的小鸟，向往外面那宽阔的天空。",
+        "output": "正向",
+        "Source": "小鸟",
+        "Target": "思想",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 486,
+        "instruction": "",
+        "input": "我还很喜欢游泳，我喜欢在水里的感觉，可以像条鱼似的，在水里自由自由在地穿梭，记得有一次，天有点凉，我还要去游泳，妈妈怎么劝我都不听，结果回来后，我生病了，可是我一点都不后悔，我喜欢的事一定要坚持做下去，不会改变的。",
+        "output": "正向",
+        "Source": "鱼",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 487,
+        "instruction": "",
+        "input": "望着这一切，我不禁想到，我们的年华就像四季一样，有着春、夏、秋、冬。",
+        "output": "中性",
+        "Source": "四季",
+        "Target": "年华",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 488,
+        "instruction": "",
+        "input": "冬天是童话王国，在这里你可以聆听孩子们的欢声笑语，像风铃在叮当作响，那样清脆悦耳，在这里时常到处白雪皑皑，美不胜收。",
+        "output": "正向",
+        "Source": "风铃",
+        "Target": "欢声笑语",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 489,
+        "instruction": "",
+        "input": "剩下一年半了，马上毕业了，心情不知道什么滋味，曾经爱过的，曾经痛恨的，曾经痴迷过的，曾经信奉的，曾经依赖的空间和时间已经随着时间轴远离我而去，我像一粒正在下沉的海沙，我想抓住温暖，我想抓住阳光，我想抓住我在地面看到的一切，我无法控制我自己，寒冷无情的将那把冰仞插入我的心房，暗流暗笑着把恐惧外套披在了我的身上，重力更放肆的将我拉入地狱。",
+        "output": "负向",
+        "Source": "海沙",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 490,
+        "instruction": "",
+        "input": "１月１０日，暴风雪袭击美国东北部。",
+        "output": "负向",
+        "Source": "袭击",
+        "Target": "暴风雪",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 491,
+        "instruction": "",
+        "input": "树林中，落叶纷纷飘落，卷卷的，干干的，像飞舞的蝴蝶。",
+        "output": "正向",
+        "Source": "蝴蝶",
+        "Target": "落叶",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 492,
+        "instruction": "",
+        "input": "我的耳朵像两把小小的扇子，头上扎着一条马尾巴似的辫子，看起来精神万分。",
+        "output": "正向",
+        "Source": "扇子",
+        "Target": "耳朵",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 493,
+        "instruction": "",
+        "input": "娇生惯养，有求必应，我们就像温室里的花朵，经不起风吹雨打太阳晒。",
+        "output": "负向",
+        "Source": "花朵",
+        "Target": "我们",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 494,
+        "instruction": "",
+        "input": "而田地里的小草，一片连接着一片，就像一张绿色的地毯。",
+        "output": "正向",
+        "Source": "地毯",
+        "Target": "草",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 495,
+        "instruction": "",
+        "input": "我的心就像枯藤，就这样在雨水里腐烂了。",
+        "output": "负向",
+        "Source": "枯藤",
+        "Target": "心",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 496,
+        "instruction": "",
+        "input": "齐铭之于易遥就像一直陪伴她的洋娃娃。",
+        "output": "正向",
+        "Source": "一直陪伴她的洋娃娃",
+        "Target": "齐铭",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 497,
+        "instruction": "",
+        "input": "我感到军训就像是一杯年代陈旧的老酒，尽管刚入口时是那么的辛辣，但是当我真正细细品味时，能够感受到一种发自内心的甜。",
+        "output": "正向",
+        "Source": "老酒",
+        "Target": "军训",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 498,
+        "instruction": "",
+        "input": "我最喜欢的动物是姥姥家的小狗，它一身乌黑的毛，像缎子一样光滑，还有一双黑豆似得眼睛，所以我叫它小黑豆。",
+        "output": "正向",
+        "Source": "缎子",
+        "Target": "毛",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 499,
+        "instruction": "",
+        "input": "我又玩了好几次像蛇似的水上滑梯，又跑向了沙滩之岛，沙子里象蒸笼一样，热热的，仿佛在盛夏的海边。",
+        "output": "中性",
+        "Source": "蛇",
+        "Target": "滑梯",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 500,
+        "instruction": "",
+        "input": "在经济转型中，政府必须起到催化剂的作用。",
+        "output": "正向",
+        "Source": "催化剂",
+        "Target": "政府",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 501,
+        "instruction": "",
+        "input": "我们的感情结冰了。",
+        "output": "负向",
+        "Source": "结冰",
+        "Target": "我们的感情",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 502,
+        "instruction": "",
+        "input": "对于我来说，幸福很简单，简单的像一杯白开水一样，以前我常常为了某个人的离去，某件事的失败而悲伤，现在不会了，因为最起码我还有一个值得我思念、值得我哭泣的人。",
+        "output": "正向",
+        "Source": "白开水",
+        "Target": "幸福",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 503,
+        "instruction": "",
+        "input": "互联网概念降温了",
+        "output": "负向",
+        "Source": "降温",
+        "Target": "互联网概念",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 504,
+        "instruction": "",
+        "input": "来到顶楼，只见月亮就像一个大圆盘，皎洁的月光，让我们看到了银光色的小河，银色的大树。",
+        "output": "正向",
+        "Source": "圆盘",
+        "Target": "月亮",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 505,
+        "instruction": "",
+        "input": "精神文明建设重在建设的思想，有的却蜕化成了重在形式",
+        "output": "负向",
+        "Source": "蜕化",
+        "Target": "精神文明建设",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 506,
+        "instruction": "",
+        "input": "朋友像黑暗中的一盏灯，照亮你迷茫的前程。",
+        "output": "正向",
+        "Source": "灯",
+        "Target": "朋友",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 507,
+        "instruction": "",
+        "input": "我们长大了，长大后就要像风一样飞。",
+        "output": "正向",
+        "Source": "风",
+        "Target": "我们",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 508,
+        "instruction": "",
+        "input": "二奶奶打扮得淋漓尽致，天气热，出了汗，像半溶化的奶油喜字蛋糕",
+        "output": "正向",
+        "Source": "半溶化的奶油喜字蛋糕",
+        "Target": "二奶奶",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 509,
+        "instruction": "",
+        "input": "记者是啄木鸟",
+        "output": "正向",
+        "Source": "啄木鸟",
+        "Target": "记者",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 510,
+        "instruction": "",
+        "input": "云朵像一朵朵洁白的羽毛，青青的漂浮在空中。",
+        "output": "正向",
+        "Source": "洁白的羽毛",
+        "Target": "云朵",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 511,
+        "instruction": "",
+        "input": "那场青春，有我们视为珍宝的荒诞的爱情，那些懵懂的孩子们，那些稚嫩的爱情柔软的经不起风雨却像皎洁的月光般温柔，那么让我们怀念和留恋。",
+        "output": "正向",
+        "Source": "月光",
+        "Target": "爱情",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 512,
+        "instruction": "",
+        "input": "傍晚，当我拖着疲惫的身子坐在书桌前，令人讨厌的小数点像小恶魔似的向我扑来，使我头昏脑胀，无法静心计算。",
+        "output": "负向",
+        "Source": "恶魔",
+        "Target": "小数点",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 513,
+        "instruction": "",
+        "input": "窗外的阳光明媚得让人冲动，蝉鸣像一曲曲夏天的交响乐，让人幻想翩翩，生活，这位智者再次出现在我的考卷上，带着神秘的笑问我他需要什么。",
+        "output": "正向",
+        "Source": "交响乐",
+        "Target": "蝉鸣",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 514,
+        "instruction": "",
+        "input": "童年就像是一只装满水晶心梦的小船，带着我们驶向远方。",
+        "output": "正向",
+        "Source": "小船",
+        "Target": "童年",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 515,
+        "instruction": "",
+        "input": "这瞌睡像十除以三",
+        "output": "中性",
+        "Source": "十除以三",
+        "Target": "瞌睡",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 516,
+        "instruction": "",
+        "input": "天上的星星在眨眼",
+        "output": "正向",
+        "Source": "眨眼",
+        "Target": "天上的星星",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 517,
+        "instruction": "",
+        "input": "大家听到口令后像离弦的箭一般飞了出去。",
+        "output": "正向",
+        "Source": "箭",
+        "Target": "大家",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 518,
+        "instruction": "",
+        "input": "他们需要自己，他是被需要的，尽管这一份份累加的需要，像一座山，他得驮着走，甚至，驮着爬。",
+        "output": "负向",
+        "Source": "山",
+        "Target": "需要",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 519,
+        "instruction": "",
+        "input": "刘翔正飞速地向终点冲去，他就像一支离弦之箭。",
+        "output": "正向",
+        "Source": "箭",
+        "Target": "刘翔",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 520,
+        "instruction": "",
+        "input": "这时，小本急得像热蚂蚁一般！",
+        "output": "负向",
+        "Source": "蚂蚁",
+        "Target": "小本",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 521,
+        "instruction": "",
+        "input": "人生就像坐车，傻瓜们走马观花似的看外界有多热闹，聪明的人用心思考因为他知道这样的世界值得感悟。",
+        "output": "中性",
+        "Source": "坐车",
+        "Target": "人生",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 522,
+        "instruction": "",
+        "input": "童话，那个缤纷的梦想，纯净的开在你我的心头，像阳光融进身体一般温暖。",
+        "output": "正向",
+        "Source": "阳光",
+        "Target": "童话",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 523,
+        "instruction": "",
+        "input": "酸甜苦辣咸，五种味道揉和在一起，像五彩的画笔绘出了成长的足迹。",
+        "output": "正向",
+        "Source": "画笔",
+        "Target": "味道",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 524,
+        "instruction": "",
+        "input": "生命，就像一缕带着温暖的阳光，滋养着万物。",
+        "output": "正向",
+        "Source": "阳光",
+        "Target": "生命",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 525,
+        "instruction": "",
+        "input": "半路上，妈妈突然想起来家里的水龙头没有关，我们像热锅上的蚂蚁——团团转，立刻让司机调转车头，以最快的速度冲回家。",
+        "output": "负向",
+        "Source": "蚂蚁",
+        "Target": "我们",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 526,
+        "instruction": "",
+        "input": "秋高气爽的秋天像一幅美丽的画卷！",
+        "output": "正向",
+        "Source": "画卷",
+        "Target": "秋天",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 527,
+        "instruction": "",
+        "input": "过了一会儿，洁白的雪花从天空中纷纷扬扬的飘落下来，它们像纯洁的小精灵，在天空中挥舞着魔术棒。",
+        "output": "正向",
+        "Source": "精灵",
+        "Target": "雪花",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 528,
+        "instruction": "",
+        "input": "她们像一个个害羞的玉女，粉红色的胭脂脸，金黄色的花蕊，散发了出一阵阵淡淡的清香，引来了不少辛勤的蜜蜂和戏耍的蝴蝶。",
+        "output": "正向",
+        "Source": "玉女",
+        "Target": "她们",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 529,
+        "instruction": "",
+        "input": "企业收缩，不能简单地把它视之为大企业变为小企业",
+        "output": "中性",
+        "Source": "收缩",
+        "Target": "企业",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 530,
+        "instruction": "",
+        "input": "屋后有一片脉脉的水田，屋前有一条蜿蜒曲折的石头小路，像一条色彩斑斓的小蛇。",
+        "output": "正向",
+        "Source": "蛇",
+        "Target": "小路",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 531,
+        "instruction": "",
+        "input": "那一年，我单纯的像一张白纸。",
+        "output": "正向",
+        "Source": "白纸",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 532,
+        "instruction": "",
+        "input": "小时候不明就里的我，现在明白了：人生又何曾不像那茶，先苦后甜，让成功了的人回味不穷呢？",
+        "output": "正向",
+        "Source": "茶",
+        "Target": "人生",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 533,
+        "instruction": "",
+        "input": "这个人的脑瓜子真像榆木疙瘩一样死板。",
+        "output": "负向",
+        "Source": "榆木疙瘩",
+        "Target": "脑瓜子",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 534,
+        "instruction": "",
+        "input": "说的一点也不为过，总统府像一个盒子藏着自清潮乾隆年间至中华民国的历史要闻。",
+        "output": "中性",
+        "Source": "盒子",
+        "Target": "总统府",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 535,
+        "instruction": "",
+        "input": "他体格健壮如公牛",
+        "output": "正向",
+        "Source": "公牛",
+        "Target": "他",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 536,
+        "instruction": "",
+        "input": "回忆像旋转的木马，在脑海里转不停，好美好美，可，心就这样美美的痛了。",
+        "output": "正向",
+        "Source": "旋转的木马",
+        "Target": "回忆",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 537,
+        "instruction": "",
+        "input": "是否在下雨的季节，人的灵魂也会像落下的梧桐叶一样寂寞呢？",
+        "output": "负向",
+        "Source": "梧桐叶",
+        "Target": "灵魂",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 538,
+        "instruction": "",
+        "input": "那个小伙子因为这件事被他的同伙拾掇了一顿",
+        "output": "负向",
+        "Source": "拾掇",
+        "Target": "小伙子",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 539,
+        "instruction": "",
+        "input": "我突然抬头一看发现高楼大厦全都变小了，汽车像一只只小蚂蚁一样。",
+        "output": "中性",
+        "Source": "小蚂蚁",
+        "Target": "汽车",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 540,
+        "instruction": "",
+        "input": "“《长城》”东起山海关，西至嘉峪关，像一条长龙，在崇山峻岭之间蜿蜒盘旋。",
+        "output": "正向",
+        "Source": "龙",
+        "Target": "长城",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 541,
+        "instruction": "",
+        "input": "她对男人来说是块磁铁",
+        "output": "正向",
+        "Source": "磁铁",
+        "Target": "她",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 542,
+        "instruction": "",
+        "input": "记忆像一条线，在时间里蔓延。",
+        "output": "中性",
+        "Source": "线",
+        "Target": "记忆",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 543,
+        "instruction": "",
+        "input": "你知道，法努奇就是一只危险的野兽",
+        "output": "负向",
+        "Source": "危险的野兽",
+        "Target": "法努奇",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 544,
+        "instruction": "",
+        "input": "一个都不少，随处可见一只母鸡率领一群小鸡仔觅食，或是看见一只大公鸡挺着脖子，大踏步地走来走去，像将军在阅兵，斗志昂扬。",
+        "output": "正向",
+        "Source": "将军",
+        "Target": "公鸡",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 545,
+        "instruction": "",
+        "input": "大地像个美丽的大花坛，好看极了。",
+        "output": "正向",
+        "Source": "花坛",
+        "Target": "大地",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 546,
+        "instruction": "",
+        "input": "微风抚摸着我的脸庞",
+        "output": "正向",
+        "Source": "抚摸",
+        "Target": "微风",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 547,
+        "instruction": "",
+        "input": "通过扭曲的行为获取利益，犹如毒瘾。",
+        "output": "负向",
+        "Source": "毒瘾",
+        "Target": "通过扭曲的行为获取利益",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 548,
+        "instruction": "",
+        "input": "我的心早已飞出课堂。",
+        "output": "中性",
+        "Source": "飞出",
+        "Target": "我的心",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 549,
+        "instruction": "",
+        "input": "文字还会像是一盘家常菜，酸甜苦辣咸。",
+        "output": "正向",
+        "Source": "家常菜",
+        "Target": "文字",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 550,
+        "instruction": "",
+        "input": "这不禁让我回想到以前，这棵木棉花树像一个守护校园的卫士，日夜都驻在这。",
+        "output": "正向",
+        "Source": "卫士",
+        "Target": "树",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 551,
+        "instruction": "",
+        "input": "如果我想睡觉，脑子一定会清醒的像见到羚羊的狮子一样。",
+        "output": "正向",
+        "Source": "狮子",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 552,
+        "instruction": "",
+        "input": "当她吟念着诗的时候，像花瓣一样的唇一张一合，很是好看，她身上散发着花的清香香，就连走过的地方也会留下那淡淡的味道，花的味道。",
+        "output": "正向",
+        "Source": "花瓣",
+        "Target": "唇",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 553,
+        "instruction": "",
+        "input": "风琴不间断的音符，像一阵风一样，吹醒了冬季的睡美人。",
+        "output": "正向",
+        "Source": "一阵风",
+        "Target": "音符",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 554,
+        "instruction": "",
+        "input": "“小蛋糕”点起来像一条一闪一闪的线。",
+        "output": "正向",
+        "Source": "线",
+        "Target": "蛋糕",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 555,
+        "instruction": "",
+        "input": "高举邓小平理论的伟大旗帜是十五大的灵魂。",
+        "output": "正向",
+        "Source": "十五大的灵魂",
+        "Target": "高举邓小平理论的伟大旗帜",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 556,
+        "instruction": "",
+        "input": "临之前，在我的梦中“江南总是古朴恬静的，就像个穿着纱巾的舞女，于湖畔徜徉，轻风吹拂她的披肩长发，眸子里传来的是凝结与纯净”。",
+        "output": "正向",
+        "Source": "舞女",
+        "Target": "江南",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 557,
+        "instruction": "",
+        "input": "如果你想享受真正的自由，就必须充当哲学的奴仆。",
+        "output": "中性",
+        "Source": "奴仆",
+        "Target": "哲学",
+        "Type": "ATTRIBUTE-NOUN"
+    },
+    {
+        "id": 558,
+        "instruction": "",
+        "input": "在五针松的下面分别种着几棵不同品种的兰花，在花坛的前面有一块草坪，像船的甲板十分精制，站在上面还有一种遥遥晃晃的感觉。",
+        "output": "正向",
+        "Source": "甲板",
+        "Target": "草坪",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 559,
+        "instruction": "",
+        "input": "大寒时节，那路边枯树的枝杈在冷风里晃荡，像一只只瘦骨嶙峋的手朝向天空。",
+        "output": "负向",
+        "Source": "手",
+        "Target": "枝杈",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 560,
+        "instruction": "",
+        "input": "可是，同学们却白高兴一场，这回一个个垂头丧气，像泄了气的皮球。",
+        "output": "负向",
+        "Source": "皮球",
+        "Target": "同学",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 561,
+        "instruction": "",
+        "input": "枫树上满是枫叶，金黄金黄的，像是一棵棵洒满金粉的金树。",
+        "output": "正向",
+        "Source": "金树",
+        "Target": "枫树",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 562,
+        "instruction": "",
+        "input": "而且，这两棵假槟榔上的叶子像一把把芭蕉扇。",
+        "output": "中性",
+        "Source": "芭蕉扇",
+        "Target": "叶子",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 563,
+        "instruction": "",
+        "input": "有齿纹的桑叶一次又一次像小刀般划过我的手背和胳膊，又粗又硬的树枝一次又一次扎着我的手。",
+        "output": "负向",
+        "Source": "小刀",
+        "Target": "桑叶",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 564,
+        "instruction": "",
+        "input": "通水那天，山村沸腾了。",
+        "output": "正向",
+        "Source": "沸腾",
+        "Target": "山村",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 565,
+        "instruction": "",
+        "input": "操场中间的两棵老槐树像两把撑开的绿绒大伞。",
+        "output": "正向",
+        "Source": "伞",
+        "Target": "槐树",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 566,
+        "instruction": "",
+        "input": "那么多的生活缩影像电影一样出现在我的脑海里，闪电一般。",
+        "output": "中性",
+        "Source": "电影",
+        "Target": "生活缩影",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 567,
+        "instruction": "",
+        "input": "自己侧脸惊愕的神情，宛如小偷给人捉住的摄影",
+        "output": "负向",
+        "Source": "小偷给人捉住的摄影",
+        "Target": "自己侧脸惊愕的神情",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 568,
+        "instruction": "",
+        "input": "反动统治者强奸民意，敲榨勒索。",
+        "output": "负向",
+        "Source": "强奸",
+        "Target": "民意",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 569,
+        "instruction": "",
+        "input": "还有一个说--“你就像毒品，懂吗？",
+        "output": "负向",
+        "Source": "毒品",
+        "Target": "你",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 570,
+        "instruction": "",
+        "input": "一只猫头鹰从树枝中像箭一样飞向天空，没有一丝犹豫，只有闪电的力量。",
+        "output": "正向",
+        "Source": "箭",
+        "Target": "猫头鹰",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 571,
+        "instruction": "",
+        "input": "雪花像肖邦的夜曲被弹奏的淋漓尽致，它轻盈的泼洒着。",
+        "output": "正向",
+        "Source": "夜曲",
+        "Target": "雪花",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 572,
+        "instruction": "",
+        "input": "爱国主义始终是把中华民族坚强团结在一起的精神纽带",
+        "output": "正向",
+        "Source": "把中华民族坚强团结在一起的精神纽带",
+        "Target": "爱国主义",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 573,
+        "instruction": "",
+        "input": "有人说：初中的生活像男孩的阔步，洋溢着不尽的豪情和永不褪色的风采。",
+        "output": "正向",
+        "Source": "阔步",
+        "Target": "生活",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 574,
+        "instruction": "",
+        "input": "他们像一匹脱缰的马，毫无束缚，肆无忌惮，我想，这些特立独行的光环不免会碰撞出些许的疼痛和大量的悔恨吧。",
+        "output": "负向",
+        "Source": "马",
+        "Target": "他们",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 575,
+        "instruction": "",
+        "input": "水晶宫里有许多千姿百态的钟乳石，彩色的灯光照在上面，钟乳石就像一颗颗水晶呈现在我的眼前，要是我有那么多水晶，那我就发财了！",
+        "output": "正向",
+        "Source": "水晶",
+        "Target": "钟乳石",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 576,
+        "instruction": "",
+        "input": "一直拖到星期天下午，我急得像热锅上的蚂蚁团团转，就急匆匆地作起来。",
+        "output": "负向",
+        "Source": "蚂蚁",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 577,
+        "instruction": "",
+        "input": "万宝璐的新闻可谓元旦档的一颗重磅炸弹",
+        "output": "中性",
+        "Source": "重磅炸弹",
+        "Target": "万宝璐的新闻",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 578,
+        "instruction": "",
+        "input": "字典是无言的老师",
+        "output": "正向",
+        "Source": "无言的老师",
+        "Target": "字典",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 579,
+        "instruction": "",
+        "input": "她是我柔软的港湾",
+        "output": "正向",
+        "Source": "柔软的港湾",
+        "Target": "她",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 580,
+        "instruction": "",
+        "input": "同学们像一只只小鸟一样叽叽喳喳，争先恐后地登上塔顶。",
+        "output": "正向",
+        "Source": "小鸟",
+        "Target": "同学",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 581,
+        "instruction": "",
+        "input": "看，一大串串的葡萄，逗人喜爱，像小铃铛。",
+        "output": "正向",
+        "Source": "铃铛",
+        "Target": "葡萄",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 582,
+        "instruction": "",
+        "input": "整个马群就像轰隆隆飞砸下山的滚木巨石。",
+        "output": "中性",
+        "Source": "轰隆隆飞砸下山的滚木巨石",
+        "Target": "马群",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 583,
+        "instruction": "",
+        "input": "你是我的优乐美奶茶。",
+        "output": "正向",
+        "Source": "我的优乐美奶茶",
+        "Target": "你",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 584,
+        "instruction": "",
+        "input": "黑暗湮没了整个城镇。",
+        "output": "负向",
+        "Source": "湮没",
+        "Target": "黑暗",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 585,
+        "instruction": "",
+        "input": "珍惜所拥有的青春，它就像指间流沙般，当你意识到它在流逝时，想握住却怎么也握不住。",
+        "output": "负向",
+        "Source": "流沙",
+        "Target": "青春",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 586,
+        "instruction": "",
+        "input": "妈妈包的饺子，像一个个胖娃娃，犹如刚出生的一个孩子。",
+        "output": "正向",
+        "Source": "娃娃",
+        "Target": "饺子",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 587,
+        "instruction": "",
+        "input": "天空湛蓝、高远、明净，像似一幅硕大图画。",
+        "output": "正向",
+        "Source": "图画",
+        "Target": "天空",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 588,
+        "instruction": "",
+        "input": "他瘦的像一道闪电。",
+        "output": "中性",
+        "Source": "闪电",
+        "Target": "他",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 589,
+        "instruction": "",
+        "input": "它像寺庙门口的石狮那样，耸立着一动也不动。",
+        "output": "中性",
+        "Source": "石狮",
+        "Target": "它",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 590,
+        "instruction": "",
+        "input": "如果说青海湖像一位婀娜多姿的少女静静地等待着游人，那么旅途中大大小小的寺庙就如同微笑着的友人缓缓向你迎来。",
+        "output": "正向",
+        "Source": "少女",
+        "Target": "青海湖",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 591,
+        "instruction": "",
+        "input": "她有一双明亮的的眼睛，高高的鼻子，还有一张像百灵鸟那样会讲话的嘴，她还会弹钢琴。",
+        "output": "正向",
+        "Source": "百灵鸟",
+        "Target": "嘴",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 592,
+        "instruction": "",
+        "input": "窗外的天气，就像是多变的表情，暗黄色的天空中落着小雨。",
+        "output": "中性",
+        "Source": "表情",
+        "Target": "天气",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 593,
+        "instruction": "",
+        "input": "就这样，日英军队见识到了我们中国兵的厉害，像一只只被人打的老鼠一样，全都滚回了自己的老家。",
+        "output": "负向",
+        "Source": "老鼠",
+        "Target": "军队",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 594,
+        "instruction": "",
+        "input": "年轻人总是一窝蜂似的，喜欢凑热闹",
+        "output": "中性",
+        "Source": "凑",
+        "Target": "热闹",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 595,
+        "instruction": "",
+        "input": "应该说，人生就像一场舞会，每个人都戴上了邪恶与复杂的面具，难以猜测内心的真实。",
+        "output": "负向",
+        "Source": "舞会",
+        "Target": "人生",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 596,
+        "instruction": "",
+        "input": "一个人的世界，除了手臂还有空气拥抱自己",
+        "output": "中性",
+        "Source": "拥抱",
+        "Target": "空气",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 597,
+        "instruction": "",
+        "input": "远山也被晚霞染红了，白色的山壁变成了一块红玛瑙，和山上苍翠的树木相映，就像一副五彩的图画，美丽极了。",
+        "output": "正向",
+        "Source": "图画",
+        "Target": "山壁",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 598,
+        "instruction": "",
+        "input": "它们绽放时，像一张张俊俏的脸。",
+        "output": "正向",
+        "Source": "脸",
+        "Target": "它们",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 599,
+        "instruction": "",
+        "input": "在写作中，记录下的每一件童年趣事，在经受住时间的考验后，别人将无法复制，它们像烙印一样，印在你的心底。",
+        "output": "正向",
+        "Source": "烙印",
+        "Target": "趣事",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 600,
+        "instruction": "",
+        "input": "它的眼睛像一对黑色的宝石，非常可爱。",
+        "output": "正向",
+        "Source": "宝石",
+        "Target": "眼睛",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 601,
+        "instruction": "",
+        "input": "很快我便盯住了一朵淡白的菊，像是身着素装的天使。",
+        "output": "正向",
+        "Source": "天使",
+        "Target": "菊",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 602,
+        "instruction": "",
+        "input": "突如其来的子弹让人毫无逃避的余地，只能像一棵树一样亘古不变，用自己的身体去丈量天空的高度，最后，岁月化为西西弗身前的巨石，人们推着它循环往复。",
+        "output": "中性",
+        "Source": "树",
+        "Target": "人",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 603,
+        "instruction": "",
+        "input": "在人生的道路上不偏航向！",
+        "output": "正向",
+        "Source": "道路",
+        "Target": "人生",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 604,
+        "instruction": "",
+        "input": "小明笨的像猪一样",
+        "output": "负向",
+        "Source": "猪",
+        "Target": "小明",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 605,
+        "instruction": "",
+        "input": "芦苇花像一簇簇羽毛。",
+        "output": "正向",
+        "Source": "羽毛",
+        "Target": "芦苇花",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 606,
+        "instruction": "",
+        "input": "一切都是那样纯粹，就像掩于叶间的小青果，若隐若现着那份天真。",
+        "output": "正向",
+        "Source": "青果",
+        "Target": "一切",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 607,
+        "instruction": "",
+        "input": "弄堂是一个迷宫。",
+        "output": "中性",
+        "Source": "迷宫",
+        "Target": "弄堂",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 608,
+        "instruction": "",
+        "input": "妈妈又告诉我，它的茎是绿色的，和别的花的茎不一样，有的茎像我们的手一样细，有的粗。",
+        "output": "中性",
+        "Source": "手",
+        "Target": "茎",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 609,
+        "instruction": "",
+        "input": "你可不能打这件东西的主意。",
+        "output": "负向",
+        "Source": "打",
+        "Target": "东西的主意",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 610,
+        "instruction": "",
+        "input": "特别是金融危机袭击韩国后，更加剧了美国的担心。",
+        "output": "负向",
+        "Source": "袭击",
+        "Target": "金融危机",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 611,
+        "instruction": "",
+        "input": "画作是工艺品",
+        "output": "正向",
+        "Source": "工艺品",
+        "Target": "画作",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 612,
+        "instruction": "",
+        "input": "从那时起，我才知道你原来那么重，真像一只小猪。",
+        "output": "负向",
+        "Source": "猪",
+        "Target": "你",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 613,
+        "instruction": "",
+        "input": "饺子包好该下锅了，等水沸腾后，妈妈把饺子放进锅里，过了一会我去看，饺子像小鸭子一样在游泳。",
+        "output": "正向",
+        "Source": "小鸭子",
+        "Target": "饺子",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 614,
+        "instruction": "",
+        "input": "这些矛盾看似十分麻烦，不讨人喜，但是它们就像是蜿蜒曲折的藤蔓已经爬满了我们这棵生活的“大树”，已经成为我们生活中不可缺少的一部分。",
+        "output": "中性",
+        "Source": "藤蔓",
+        "Target": "矛盾",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 615,
+        "instruction": "",
+        "input": "往事，总是被人守候成至美的风景",
+        "output": "正向",
+        "Source": "至美的风景",
+        "Target": "往事",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 616,
+        "instruction": "",
+        "input": "这孩子从几岁就开始接触绘画",
+        "output": "中性",
+        "Source": "接触",
+        "Target": "绘画",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 617,
+        "instruction": "",
+        "input": "成千上万的小朋友们手握五彩气球，放飞在天安门湛蓝的天空下，当气球越升越高，我想，我们祖国的未来也一定会像这气球一样，蒸蒸日上吧！",
+        "output": "正向",
+        "Source": "气球",
+        "Target": "未来",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 618,
+        "instruction": "",
+        "input": "我在谈话间隙里回顾了我的人生",
+        "output": "中性",
+        "Source": "回顾",
+        "Target": "我的人生",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 619,
+        "instruction": "",
+        "input": "树枝在风中摇曳着光影，那斑驳的记忆，在这安逸的时刻，随一盏茶香袅袅升起，尘凡的心事变得温婉，像一朵素净的小花，散着淡淡的清香，在阳光里优雅的绽放，明媚这清宁时光。",
+        "output": "正向",
+        "Source": "花",
+        "Target": "心事",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 620,
+        "instruction": "",
+        "input": "首先，妈妈给我戴上生日帽，打开彩灯，在夜色中灯光像温柔的手一样，抚摸着我的头。",
+        "output": "正向",
+        "Source": "手",
+        "Target": "灯光",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 621,
+        "instruction": "",
+        "input": "那在春风中摇摆着枝叶的蝴蝶树，多像一个美丽的姑娘在抖动她刚洗过的秀发啊！",
+        "output": "正向",
+        "Source": "姑娘",
+        "Target": "蝴蝶树",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 622,
+        "instruction": "",
+        "input": "奶奶单薄的背影在我充满泪水的双眼前摇动，我像离弦的箭冲到了最后一层楼梯，奶奶却已经消失在人流之中。",
+        "output": "中性",
+        "Source": "箭",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 623,
+        "instruction": "",
+        "input": "雷锋精神像一座灯塔照亮了多少代人前进的道路。",
+        "output": "正向",
+        "Source": "灯塔",
+        "Target": "雷锋精神",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 624,
+        "instruction": "",
+        "input": "让我们永远珍藏着这次考察中建立的深情厚谊。",
+        "output": "正向",
+        "Source": "珍藏",
+        "Target": "考察中建立的深情厚谊",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 625,
+        "instruction": "",
+        "input": "最特别的要数萝卜了，它的叶子是绿色的，可叶子上的茎却是红色的，像一把把美丽的小扇子，在随风摆动着。",
+        "output": "正向",
+        "Source": "扇子",
+        "Target": "叶子",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 626,
+        "instruction": "",
+        "input": "英国人看惯白皮肤，瞧见她暗而不黑的颜色，以为有肥腻辛辣的引力",
+        "output": "中性",
+        "Source": "肥腻辛辣",
+        "Target": "引力",
+        "Type": "ATTRIBUTE-NOUN"
+    },
+    {
+        "id": 627,
+        "instruction": "",
+        "input": "名利场也是一台绞肉机。",
+        "output": "负向",
+        "Source": "绞肉机",
+        "Target": "名利场",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 628,
+        "instruction": "",
+        "input": "你看，桃叶它那小巧玲珑的身段，像刚发芽的小草，点缀在桃花周围，是春姑娘送给桃花的装饰品吧。",
+        "output": "正向",
+        "Source": "草",
+        "Target": "身段",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 629,
+        "instruction": "",
+        "input": "这样我心里就舒服多了，妈妈的话就像一阵温暖的风，吹散了所有的乌云。",
+        "output": "正向",
+        "Source": "风",
+        "Target": "的话",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 630,
+        "instruction": "",
+        "input": "我低下头看地上的影子，它在月光下被拉的很长很长，像一个大大的叹号，是一种无奈吗？",
+        "output": "负向",
+        "Source": "叹号",
+        "Target": "影子",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 631,
+        "instruction": "",
+        "input": "全面推向21世纪的蓝图",
+        "output": "正向",
+        "Source": "推向21世纪",
+        "Target": "蓝图",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 632,
+        "instruction": "",
+        "input": "我的心冷冷的，就像这眼前的天气一样，混乱嘈杂。",
+        "output": "负向",
+        "Source": "天气",
+        "Target": "心",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 633,
+        "instruction": "",
+        "input": "一粒粒谷子又硕大又饱满，像珍珠一样放着光彩。",
+        "output": "正向",
+        "Source": "珍珠",
+        "Target": "谷子",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 634,
+        "instruction": "",
+        "input": "记得曾对她说过，她就像一张白纸，而我害怕是那污染她的墨水。",
+        "output": "正向",
+        "Source": "白纸",
+        "Target": "她",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 635,
+        "instruction": "",
+        "input": "原来是他们的孩子被困在瓦砾堆下已经100多少小时了，因为墙的面积太大，人推不动，用吊车会对伤员再次造成伤害，正当人们像热锅上的蚂蚁，急得团团转时，我立刻施展魔法，用魔法棒一点，瓦砾就马上飞了起来。",
+        "output": "负向",
+        "Source": "蚂蚁",
+        "Target": "人们",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 636,
+        "instruction": "",
+        "input": "无数蝴蝶般的落叶从脚边滚过，滚向前方黑暗笼罩的尽头。",
+        "output": "正向",
+        "Source": "落叶",
+        "Target": "蝴蝶",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 637,
+        "instruction": "",
+        "input": "他轻推了一下门，阳光便如流水一般流入，洒满一地。",
+        "output": "正向",
+        "Source": "流水",
+        "Target": "阳光",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 638,
+        "instruction": "",
+        "input": "那时候的大气层，很干净、很美丽，它像一层淡蓝色的薄雾紧紧包裹着地球，它使地球成为了茫茫宇宙中最美丽的天体。",
+        "output": "正向",
+        "Source": "薄雾",
+        "Target": "大气层",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 639,
+        "instruction": "",
+        "input": "我踏着青青的绿地，原来，青春就像这夏季一样。",
+        "output": "正向",
+        "Source": "夏季",
+        "Target": "青春",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 640,
+        "instruction": "",
+        "input": "男生们一个个耸拉着脑袋，就像霜打的茄子—蔫了！",
+        "output": "负向",
+        "Source": "霜打的茄子",
+        "Target": "男生",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 641,
+        "instruction": "",
+        "input": "盛夏，天上没有一丝云彩，骄阳像只火炉把地面烤得滚烫滚烫，无数知鸣蝉声嘶力竭的痛斥夏日的残酷，一阵南风刮来，从地上卷起一股热浪，吞噬了那属于万物的最后一滴凝露，杂草终于抵挡不住，将叶子打成卷退出了比赛，牵牛花谢下了自己的妆容，玫瑰，百合早已躲入温室之中，只有白杨依然挺立的很直，很直。",
+        "output": "负向",
+        "Source": "火炉",
+        "Target": "骄阳",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 642,
+        "instruction": "",
+        "input": "希望能穿透一切高墙",
+        "output": "正向",
+        "Source": "穿透",
+        "Target": "高墙",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 643,
+        "instruction": "",
+        "input": "我的眼睛黑黝黝，像巧克力豆一样，神采奕奕，十分好看。",
+        "output": "正向",
+        "Source": "巧克力豆",
+        "Target": "眼睛",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 644,
+        "instruction": "",
+        "input": "他们的孩子在等待绽放",
+        "output": "正向",
+        "Source": "绽放",
+        "Target": "他们的孩子",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 645,
+        "instruction": "",
+        "input": "我的眼睛瞪得像个大圆球，这怎么可能呢？",
+        "output": "中性",
+        "Source": "圆球",
+        "Target": "眼睛",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 646,
+        "instruction": "",
+        "input": "他跑的飞快像兔子一样",
+        "output": "正向",
+        "Source": "兔子",
+        "Target": "他",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 647,
+        "instruction": "",
+        "input": "碎浪滚滚而来，边缘透明，仿佛绿色的玻璃。",
+        "output": "中性",
+        "Source": "绿色的玻璃",
+        "Target": "碎浪",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 648,
+        "instruction": "",
+        "input": "父母就像那泉水般甘甜，滋润着我的心田。",
+        "output": "正向",
+        "Source": "泉水",
+        "Target": "父母",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 649,
+        "instruction": "",
+        "input": "她感叹道。\"普罗旺斯就是花的海洋。\"",
+        "output": "正向",
+        "Source": "花的海洋",
+        "Target": "普罗旺斯",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 650,
+        "instruction": "",
+        "input": "一阵春风吹过，小草跳起了欢乐的舞蹈，像亭亭玉立的少女那样尽情地跳舞嬉戏。",
+        "output": "正向",
+        "Source": "少女",
+        "Target": "草",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 651,
+        "instruction": "",
+        "input": "烽火台一个连着一个，很像龙上的鳞爪。",
+        "output": "正向",
+        "Source": "鳞爪",
+        "Target": "烽火台",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 652,
+        "instruction": "",
+        "input": "恒星在永恒的传播着光明",
+        "output": "正向",
+        "Source": "传播",
+        "Target": "恒星",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 653,
+        "instruction": "",
+        "input": "窗外的天气就像是你多变的表情下雨了雨陪我哭泣看不清我也不想看清离开你我安静的抽离不忍揭晓的剧情。",
+        "output": "负向",
+        "Source": "表情",
+        "Target": "天气",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 654,
+        "instruction": "",
+        "input": "远远望去，桃花像一块红色的棉花糖，让人忍不住想咬上一口。",
+        "output": "正向",
+        "Source": "棉花糖",
+        "Target": "桃花",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 655,
+        "instruction": "",
+        "input": "一瞬间，他的身体像羽毛一样，飘然而去，我的天哪！",
+        "output": "中性",
+        "Source": "羽毛",
+        "Target": "身体",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 656,
+        "instruction": "",
+        "input": "父母总想着能更好地为孩子铺路",
+        "output": "正向",
+        "Source": "铺路",
+        "Target": "父母",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 657,
+        "instruction": "",
+        "input": "有符号整数右移时高位如何传递是一种实现定义的行为。",
+        "output": "中性",
+        "Source": "传递",
+        "Target": "高位",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 658,
+        "instruction": "",
+        "input": "我打败了这个困难",
+        "output": "正向",
+        "Source": "打败",
+        "Target": "困难",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 659,
+        "instruction": "",
+        "input": "那片片荷叶，像撑开的一把把绿伞，有的轻浮于水面，有的亭立在碧波之上，似层层绿浪，如片片翠玉。",
+        "output": "正向",
+        "Source": "伞",
+        "Target": "荷叶",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 660,
+        "instruction": "",
+        "input": "外面的风很大吹到人身上像匕首一样",
+        "output": "负向",
+        "Source": "匕首",
+        "Target": "外面的风",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 661,
+        "instruction": "",
+        "input": "栀子花开，采满篮的花香，守候在你经过的路口",
+        "output": "正向",
+        "Source": "守候",
+        "Target": "采满篮的花香",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 662,
+        "instruction": "",
+        "input": "感谢你们来到这儿为我们加油助威",
+        "output": "正向",
+        "Source": "加油助威",
+        "Target": "你们",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 663,
+        "instruction": "",
+        "input": "花落如绚丽烟花散开。",
+        "output": "正向",
+        "Source": "绚丽烟花",
+        "Target": "花",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 664,
+        "instruction": "",
+        "input": "夏天，整个城市像烧透了的砖窖，使人喘不过气来。",
+        "output": "负向",
+        "Source": "砖窖",
+        "Target": "城市",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 665,
+        "instruction": "",
+        "input": "记得有一次，要上美术课的时候，我忽然发现剪刀没带，急得像热锅上的蚂蚁团团转。",
+        "output": "负向",
+        "Source": "蚂蚁",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 666,
+        "instruction": "",
+        "input": "我希望赵主任您能帮我在局里搭桥",
+        "output": "正向",
+        "Source": "搭桥",
+        "Target": "赵主任",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 667,
+        "instruction": "",
+        "input": "因为，我可以躺在草坪里，吸着淡淡的草香，望着那天上一颗颗像眼睛的星星，一闪一闪的，旁边还趴着宠物，偶尔会有一两颗流星，掠过天空，闭上眼睛，默默的许一个愿望，祈祷我的愿望可以实现。",
+        "output": "正向",
+        "Source": "眼睛",
+        "Target": "星星",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 668,
+        "instruction": "",
+        "input": "薄雾散开后，天空碧蓝碧蓝的，只有几片白色的云朵，就像一块蓝色的花布。",
+        "output": "正向",
+        "Source": "花布",
+        "Target": "天空",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 669,
+        "instruction": "",
+        "input": "你是个奇葩。",
+        "output": "中性",
+        "Source": "奇葩",
+        "Target": "你",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 670,
+        "instruction": "",
+        "input": "他们的问题出乎我的意料，我原以为他们会一下子冲进来，像狼似地疯狂不已，但我没想到他们还挺有礼貌的。",
+        "output": "负向",
+        "Source": "狼",
+        "Target": "他们",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 671,
+        "instruction": "",
+        "input": "还有森林像调得过浓的色块",
+        "output": "中性",
+        "Source": "调得过浓的色块",
+        "Target": "森林",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 672,
+        "instruction": "",
+        "input": "写日记可以让我既快乐又兴奋，可以在文字里像鸟儿一样自由自在地在天空飞翔。",
+        "output": "正向",
+        "Source": "鸟儿",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 673,
+        "instruction": "",
+        "input": "花坛中，一串红开得正艳，远远看去真像一团团火焰呀。",
+        "output": "正向",
+        "Source": "火焰",
+        "Target": "一串红",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 674,
+        "instruction": "",
+        "input": "红领巾是祖国未来的花朵",
+        "output": "正向",
+        "Source": "祖国未来的花朵",
+        "Target": "红领巾",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 675,
+        "instruction": "",
+        "input": "家乡的春天就像一幅幅美丽的图画。",
+        "output": "正向",
+        "Source": "图画",
+        "Target": "春天",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 676,
+        "instruction": "",
+        "input": "她没有说话，冷若冰霜。",
+        "output": "负向",
+        "Source": "冰霜",
+        "Target": "她",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 677,
+        "instruction": "",
+        "input": "在爸爸和阿姨聊天的时候，我蹲下身子认真观察，它们大多五六十厘米高，一棵菊花有好多枝茎，一根根直立着，它的茎那么绿那么软，用一根根小木棍支撑着，像一条条向上爬着的小蛇。",
+        "output": "中性",
+        "Source": "蛇",
+        "Target": "茎",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 678,
+        "instruction": "",
+        "input": "一对红眼睛，像两颗红宝石一样，镶在雪白的脸上，分外漂亮。",
+        "output": "正向",
+        "Source": "红宝石",
+        "Target": "眼睛",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 679,
+        "instruction": "",
+        "input": "那银灰的桥身像一条宽宽的腰带，束在了波澜壮阔的长江之上。",
+        "output": "正向",
+        "Source": "腰带",
+        "Target": "桥身",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 680,
+        "instruction": "",
+        "input": "它有六条又肥又长又有力的腿，尤其是那两条又肥又长的大腿很是厉害，如果有一面又高又大的墙，“胖大海”一定会用那有力的大腿用力一蹬跳上去，就像古代能飞檐走壁的大侠。",
+        "output": "正向",
+        "Source": "大侠",
+        "Target": "胖大海",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 681,
+        "instruction": "",
+        "input": "即使有什么悬而未决的疑问，也因此而扼杀在摇篮之中了",
+        "output": "负向",
+        "Source": "扼杀",
+        "Target": "悬而未决的疑问",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 682,
+        "instruction": "",
+        "input": "青春像是一张无水流动的画，我站在画的外面凝视，不见潺潺的流水，但闻轻轻的声响。",
+        "output": "中性",
+        "Source": "画",
+        "Target": "青春",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 683,
+        "instruction": "",
+        "input": "他像一头雄狮那样战斗",
+        "output": "正向",
+        "Source": "雄狮",
+        "Target": "他",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 684,
+        "instruction": "",
+        "input": "世上好演的是戏，难做的是人，戏是虚构的，人却是真实的，戏里演的是人生，人生就像一场戏。",
+        "output": "中性",
+        "Source": "戏",
+        "Target": "人生",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 685,
+        "instruction": "",
+        "input": "不错，在日常生活中，母亲就像那棵茂密的母亲树一样，庇护着我快乐的成长。",
+        "output": "正向",
+        "Source": "树",
+        "Target": "母亲",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 686,
+        "instruction": "",
+        "input": "桃花开了，它红的像个害羞的小脸蛋，微微含笑。",
+        "output": "正向",
+        "Source": "脸蛋",
+        "Target": "桃花",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 687,
+        "instruction": "",
+        "input": "外围的花圈被风叼滥了，新土也凝结了，像一堆被蒸过的白面，上面留下一层嫩嫩的皮。",
+        "output": "中性",
+        "Source": "白面",
+        "Target": "土",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 688,
+        "instruction": "",
+        "input": "他的胸怀如大海",
+        "output": "正向",
+        "Source": "大海",
+        "Target": "他的胸怀",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 689,
+        "instruction": "",
+        "input": "鸡蛋沉在水底，就像一个大懒汉一样，睡在床上，不愿意起床。",
+        "output": "负向",
+        "Source": "懒汉",
+        "Target": "鸡蛋",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 690,
+        "instruction": "",
+        "input": "不知何时，音响放起了歌唱祖国，在那像气球一样膨胀起来的希翼的歌曲中，我缓缓的举起了右手，向我的祖国母亲敬礼，掌声如潮。",
+        "output": "正向",
+        "Source": "气球",
+        "Target": "希翼",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 691,
+        "instruction": "",
+        "input": "他走了，我的心也跟着凋零了",
+        "output": "负向",
+        "Source": "凋零",
+        "Target": "我的心",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 692,
+        "instruction": "",
+        "input": "每天清晨一睁眼我就盼望着时间快点过，多么希望马上就到了做操的时间，我就像快乐的小鸟一样飞到舞蹈教室呀！",
+        "output": "正向",
+        "Source": "小鸟",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 693,
+        "instruction": "",
+        "input": "他的心已死了",
+        "output": "负向",
+        "Source": "死",
+        "Target": "他的心",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 694,
+        "instruction": "",
+        "input": "古老的徽州在这儿留下过雕刻的足迹，倒是很像中国画，画面的意境朦胧，了了的几笔却勾勒出十分清晰的轮廓。",
+        "output": "正向",
+        "Source": "中国画",
+        "Target": "足迹",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 695,
+        "instruction": "",
+        "input": "自由的财富",
+        "output": "正向",
+        "Source": "自由",
+        "Target": "财富",
+        "Type": "ATTRIBUTE-NOUN"
+    },
+    {
+        "id": 696,
+        "instruction": "",
+        "input": "互联网上信息爆炸",
+        "output": "中性",
+        "Source": "爆炸",
+        "Target": "信息",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 697,
+        "instruction": "",
+        "input": "父亲的爱像一本书，表面平淡无奇，书里却充满知识。",
+        "output": "正向",
+        "Source": "书",
+        "Target": "爱",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 698,
+        "instruction": "",
+        "input": "我爬上观鱼亭，俯瞰整个湖面，湖面是泛着乳白的绿色，像碧玉一样，而且随着阳光和看的角度不同会变化出不同的颜色。",
+        "output": "正向",
+        "Source": "碧玉",
+        "Target": "湖面",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 699,
+        "instruction": "",
+        "input": "以经验为参谋",
+        "output": "正向",
+        "Source": "参谋",
+        "Target": "经验",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 700,
+        "instruction": "",
+        "input": "青奥会就像我们的青春一样——充满活力！",
+        "output": "正向",
+        "Source": "青春",
+        "Target": "青奥会",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 701,
+        "instruction": "",
+        "input": "那亮晶晶的星星一闪一闪的，像明亮的珍珠。",
+        "output": "正向",
+        "Source": "珍珠",
+        "Target": "星星",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 702,
+        "instruction": "",
+        "input": "我沉浸在她的歌声中。",
+        "output": "正向",
+        "Source": "沉浸",
+        "Target": "她的歌声",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 703,
+        "instruction": "",
+        "input": "听了这个演讲，他感觉自己的心被点燃了。",
+        "output": "正向",
+        "Source": "点燃",
+        "Target": "自己的心",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 704,
+        "instruction": "",
+        "input": "看枫叶是那么红那么艳充满生机就像一团火焰在熊熊燃烧散发出光和热。",
+        "output": "正向",
+        "Source": "火焰",
+        "Target": "枫叶",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 705,
+        "instruction": "",
+        "input": "理想就像一座高山，经常被云雾遮挡着，很难看清楚。",
+        "output": "中性",
+        "Source": "高山",
+        "Target": "理想",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 706,
+        "instruction": "",
+        "input": "人们为了迎接这个神圣的日子，修建了鸟巢、水立方，水立方的外观像水的波纹，放眼望去，仿佛置身在海洋中。",
+        "output": "正向",
+        "Source": "波纹",
+        "Target": "外观",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 707,
+        "instruction": "",
+        "input": "《人民的名义》中男士的类型让\"中年熟男风\"刮了一整年。",
+        "output": "正向",
+        "Source": "风",
+        "Target": "中年熟男",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 708,
+        "instruction": "",
+        "input": "提高国民素质是促进我国经济持续发展的动力源泉。",
+        "output": "正向",
+        "Source": "促进我国经济持续发展的动力源泉",
+        "Target": "提高国民素质",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 709,
+        "instruction": "",
+        "input": "是你在那里给我指明人生的第一只蝴蝶。",
+        "output": "正向",
+        "Source": "指明",
+        "Target": "人生",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 710,
+        "instruction": "",
+        "input": "滔滔的长江哺育了亿万人民。",
+        "output": "正向",
+        "Source": "哺育",
+        "Target": "滔滔的长江",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 711,
+        "instruction": "",
+        "input": "冬天，寒风怒吼",
+        "output": "负向",
+        "Source": "怒吼",
+        "Target": "寒风",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 712,
+        "instruction": "",
+        "input": "这时我才知道，这48本作业本就像一头大肥猪一样压着我的胸膛，使我气喘吁吁，下几级楼梯还要再走一段路的“丝绸之路”，这路也成了“臭水沟路线”，让我感觉漫长无比。",
+        "output": "负向",
+        "Source": "肥猪",
+        "Target": "作业本",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 713,
+        "instruction": "",
+        "input": "我走到老树旁听得树枝震颤发出低声怒吼",
+        "output": "负向",
+        "Source": "低声怒吼",
+        "Target": "树枝",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 714,
+        "instruction": "",
+        "input": "他像狼一样地紧盯着那个项目。",
+        "output": "中性",
+        "Source": "狼",
+        "Target": "他",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 715,
+        "instruction": "",
+        "input": "梨子在树上随着风摇摇摆摆的，就像一位仙女在给秋天跳一支丰收舞",
+        "output": "正向",
+        "Source": "仙女",
+        "Target": "梨子",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 716,
+        "instruction": "",
+        "input": "有很多人像风一样，你感觉不到看不到，很快的走掉。",
+        "output": "负向",
+        "Source": "风",
+        "Target": "人",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 717,
+        "instruction": "",
+        "input": "求索的科学家默默地耕耘着一方漆黑的沃土。",
+        "output": "正向",
+        "Source": "耕耘",
+        "Target": "求索的科学家",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 718,
+        "instruction": "",
+        "input": "伟大无私的母爱沉浸于万物之中。",
+        "output": "正向",
+        "Source": "沉浸",
+        "Target": "伟大无私的母爱",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 719,
+        "instruction": "",
+        "input": "他们纯洁的就像这里的水一般，不含其它的杂质。",
+        "output": "正向",
+        "Source": "水",
+        "Target": "他们",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 720,
+        "instruction": "",
+        "input": "春天时，一个万物复苏的世界，小草发芽了，果树开花了，春季园就像一个害羞的姑娘，羞涩地对你眨眼。",
+        "output": "正向",
+        "Source": "姑娘",
+        "Target": "春季园",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 721,
+        "instruction": "",
+        "input": "我注视着他的座位，发现上面的小飞真的像小鸟一样飞地走了，只剩下一个空荡荡的座位，正如我的心底世界。",
+        "output": "正向",
+        "Source": "小鸟",
+        "Target": "小飞",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 722,
+        "instruction": "",
+        "input": "雷雨浸透了三州地区",
+        "output": "中性",
+        "Source": "浸透",
+        "Target": "三州地区",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 723,
+        "instruction": "",
+        "input": "受国家冻结土地使用政策的影响",
+        "output": "负向",
+        "Source": "冻结",
+        "Target": "土地使用政策",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 724,
+        "instruction": "",
+        "input": "童年在驾着纸飞机，做着白日梦懵懵懂懂的日子里远去了，然后少年就像一朵绚丽多彩的花，绽放在最适合它的季节。",
+        "output": "正向",
+        "Source": "花",
+        "Target": "少年",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 725,
+        "instruction": "",
+        "input": "此时我才真正发现我真的死掉了，还有我的手和我的笔．从前鲜活轻快的文字如今已不再像汩汩清泉一样从笔尖流出．所以一想起文字我就会不自觉的发呆，发呆，发呆。",
+        "output": "正向",
+        "Source": "清泉",
+        "Target": "文字",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 726,
+        "instruction": "",
+        "input": "操场上的红色跑线在雪的映衬下显得格外鲜艳，操场中间的大草坪被雪盖上了白色的被子，就像一个还在冒热气的大元宵。",
+        "output": "正向",
+        "Source": "元宵",
+        "Target": "草坪",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 727,
+        "instruction": "",
+        "input": "有时它像个爱睡觉的孩子，有时它也和伙伴一起玩耍。",
+        "output": "正向",
+        "Source": "孩子",
+        "Target": "它",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 728,
+        "instruction": "",
+        "input": "在二舅妈的精挑细选下，终于挑到了一根满意的甘蔗，这根甘蔗外皮是黑紫色的，一节一节的，长的就像一根竹子。",
+        "output": "中性",
+        "Source": "竹子",
+        "Target": "甘蔗",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 729,
+        "instruction": "",
+        "input": "成功后的男生们欣喜若狂，得意得向我们挤眉弄眼，我们一个个像霜打的茄子，垂头丧气。",
+        "output": "负向",
+        "Source": "霜打的茄子",
+        "Target": "我们",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 730,
+        "instruction": "",
+        "input": "因为种种原因，这个方案不得不搁浅了。",
+        "output": "负向",
+        "Source": "搁浅",
+        "Target": "方案",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 731,
+        "instruction": "",
+        "input": "我蹦着跳着来到教室外面，洁白的雪花像一只只银蝴蝶在天空中翩翩起舞。",
+        "output": "正向",
+        "Source": "蝴蝶",
+        "Target": "雪花",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 732,
+        "instruction": "",
+        "input": "太阳像一个很强壮很淘气的少年，只探探自己红彤彤金灿灿的脸蛋，慢慢地太阳这个小伙子开始攀登起来，一步一步的往上走，可他始终没有爬上去，但他并不放弃，变成了一个富有理想和志向的青年，坚持不懈的向上走向上走最后，它变成了一个成熟的中年，他奋力一跃，终于它跃上了万里晴空，成为了世界的主宰。",
+        "output": "正向",
+        "Source": "少年",
+        "Target": "太阳",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 733,
+        "instruction": "",
+        "input": "不会忧伤的女孩，眸子里永远都是简单而纯净的神色，像一首经年里空灵干净的小诗。",
+        "output": "正向",
+        "Source": "诗",
+        "Target": "眸子",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 734,
+        "instruction": "",
+        "input": "可是这些书却像淘气的小孩不听使唤地往前飞，我更疯狂地抓，这时，妈妈大声地喊：“YOYO，你怎么啦？",
+        "output": "中性",
+        "Source": "小孩",
+        "Target": "书",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 735,
+        "instruction": "",
+        "input": "榴莲看起来像个刺猬，远远闻起来有一股臭臭的味道。",
+        "output": "中性",
+        "Source": "刺猬",
+        "Target": "榴莲",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 736,
+        "instruction": "",
+        "input": "社会像尽一潭污水，其中混合着各种物质，如今社会这潭污水已经饱和，要说还少点什么？",
+        "output": "负向",
+        "Source": "污水",
+        "Target": "社会",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 737,
+        "instruction": "",
+        "input": "力透纸背的秋风，从指间呼啸而出，像宣纸上不经意失落的一滴墨。",
+        "output": "中性",
+        "Source": "墨",
+        "Target": "秋风",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 738,
+        "instruction": "",
+        "input": "终于放暑假了，我十分兴奋，像一只出笼的小鸟一样东飞西窜，准备乘地铁到同学家去玩。",
+        "output": "正向",
+        "Source": "小鸟",
+        "Target": "我",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 739,
+        "instruction": "",
+        "input": "生活欺骗了我。",
+        "output": "负向",
+        "Source": "欺骗",
+        "Target": "生活",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 740,
+        "instruction": "",
+        "input": "由于他没有后代，一身绝技随之湮灭，徒使后人望玉兴叹。",
+        "output": "负向",
+        "Source": "湮灭",
+        "Target": "一身绝技",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 741,
+        "instruction": "",
+        "input": "长城是古代人民劳动智慧的结晶",
+        "output": "正向",
+        "Source": "古代人民劳动智慧的结晶",
+        "Target": "长城",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 742,
+        "instruction": "",
+        "input": "少儿足球在全国遍地开花。",
+        "output": "正向",
+        "Source": "开花",
+        "Target": "少儿足球",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 743,
+        "instruction": "",
+        "input": "这些人就像小猴子一样，在两杆之间表演着各种各样的动作：翻、跳、爬，有时还从高杆上滑下来。",
+        "output": "中性",
+        "Source": "猴子",
+        "Target": "人",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 744,
+        "instruction": "",
+        "input": "“阳光地带就像我们的家一样，我们用一个孩子的想象和天真去爱护它。",
+        "output": "正向",
+        "Source": "家",
+        "Target": "阳光地带",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 745,
+        "instruction": "",
+        "input": "人生是一种旅途",
+        "output": "中性",
+        "Source": "旅途",
+        "Target": "人生",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 746,
+        "instruction": "",
+        "input": "它们像调皮的小孩，在屋顶上上蹦蹦跳跳，屋顶就成了它们的乐园。",
+        "output": "正向",
+        "Source": "小孩",
+        "Target": "它们",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 747,
+        "instruction": "",
+        "input": "“X”形天桥像一只出海的绿色“四爪章鱼”撑在江汉路与中山大道交界的十字路口，穿梭似的汽车得从它的肚皮下钻过，行人在它背上跨过。",
+        "output": "正向",
+        "Source": "四爪章鱼",
+        "Target": "天桥",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 748,
+        "instruction": "",
+        "input": "的确，我们的祖国地大物博，他如钢铁巨人般屹立在世界的中方，像一颗璀璨的明珠夺目耀眼，灿烂辉煌。",
+        "output": "正向",
+        "Source": "明珠",
+        "Target": "祖国",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 749,
+        "instruction": "",
+        "input": "商人是一只蝎子",
+        "output": "负向",
+        "Source": "蝎子",
+        "Target": "商人",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 750,
+        "instruction": "",
+        "input": "书籍是进步的阶梯",
+        "output": "正向",
+        "Source": "进步的阶梯",
+        "Target": "书籍",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 751,
+        "instruction": "",
+        "input": "回头看山脚下的小村庄，一栋栋小别墅拔地而起，那土墙泥瓦的小房子，渐渐的消失了，小别墅穿上彩色的裙子像婷婷玉立的大姑娘出嫁那样美丽可爱。",
+        "output": "正向",
+        "Source": "大姑娘",
+        "Target": "别墅",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 752,
+        "instruction": "",
+        "input": "生命又是伟大的，就像一颗颗璀璨的夜明珠，珍贵无比。",
+        "output": "正向",
+        "Source": "夜明珠",
+        "Target": "生命",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 753,
+        "instruction": "",
+        "input": "我又在里面认识了许多新朋友，我们一起在像皇宫一样的房子里钻来钻去，还骑了老虎、大象、马，玩过翘翘板。",
+        "output": "正向",
+        "Source": "皇宫",
+        "Target": "房子",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 754,
+        "instruction": "",
+        "input": "他损害了别人的利益，怕是要吃官司了",
+        "output": "负向",
+        "Source": "吃",
+        "Target": "官司",
+        "Type": "VERB-NOUN"
+    },
+    {
+        "id": 755,
+        "instruction": "",
+        "input": "他被揍成了一个猪头",
+        "output": "负向",
+        "Source": "猪头",
+        "Target": "他",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 756,
+        "instruction": "",
+        "input": "老师像春雨，把点点滴滴的知识撒在我们的心里。",
+        "output": "正向",
+        "Source": "春雨",
+        "Target": "老师",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 757,
+        "instruction": "",
+        "input": "远远地望过去，收割过的田野变得很亮，没有叶的枝干，淋着雨的草垛，对着瓷色的天空，像一幅干净利落的木刻。",
+        "output": "正向",
+        "Source": "木刻",
+        "Target": "田野",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 758,
+        "instruction": "",
+        "input": "﻿它的舌头就像刷子一样，刷着我的手，我觉得痒痒的。",
+        "output": "正向",
+        "Source": "刷子",
+        "Target": "舌头",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 759,
+        "instruction": "",
+        "input": "他是我的臂膀",
+        "output": "正向",
+        "Source": "我的臂膀",
+        "Target": "他",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 760,
+        "instruction": "",
+        "input": "就在那个时候，我爷爷病了，自己学习的心思没有了，整天像行尸走肉般生活着。",
+        "output": "负向",
+        "Source": "行尸走肉",
+        "Target": "自己",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 761,
+        "instruction": "",
+        "input": "天目山有东天目和西天目之分，这座山的山顶有两个火山喷发后留下来的大洞，就像两只水汪汪的眼睛注视着天空，所以被命名为天目山。",
+        "output": "正向",
+        "Source": "眼睛",
+        "Target": "洞",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 762,
+        "instruction": "",
+        "input": "她住在宫殿一般的房子里",
+        "output": "正向",
+        "Source": "宫殿",
+        "Target": "房子",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 763,
+        "instruction": "",
+        "input": "他是群体中的稻草人",
+        "output": "负向",
+        "Source": "群体中的稻草人",
+        "Target": "他",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 764,
+        "instruction": "",
+        "input": "书籍是迷雾里的航标灯。",
+        "output": "正向",
+        "Source": "迷雾里的航标灯",
+        "Target": "书籍",
+        "Type": "NOUN-NOUN"
+    },
+    {
+        "id": 765,
+        "instruction": "",
+        "input": "云朵打扮着蓝色的天幕",
+        "output": "正向",
+        "Source": "打扮",
+        "Target": "云朵",
+        "Type": "VERB-NOUN"
+    }
+]
