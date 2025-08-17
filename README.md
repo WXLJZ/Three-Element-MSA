@@ -27,6 +27,18 @@ Metaphorical expressions evoke stronger emotions than literal language. However,
     └── 📄 pretrain.py       # Enhanced pre-trained for BERT yields Metaphor-BERT
 ```
 
+## 📂 Dataset Details
+
+For detailed information about the **EMSA** and **CMSA** datasets, including JSON format, splits, and analysis figures, please refer to the [Dataset README](./data/ReadME.md).
+
+## 🧩 Methods
+
+The proposed framework joint models **S**, **T**, and **C** to capture sentiment transfer in multi-type metaphors. The proposed Model (**MTCL-IT**) are illustrated in the figure below:
+
+![Method Framework](./docs/figures/model.png)
+
+---
+
 ## 🛠 Installation
 
 ### Requirements
