@@ -40,14 +40,20 @@ Examples include co-occurrence of sentiment and metaphor type, high-frequency $S
 You can find all analysis figures in the repository under the `docs/figures/` folder.  
 
 Example figure link:
-![Basic Statistics](../docs/figures/basic.jpg){width=300px}
 
+#### Basic Statistics
+![Basic Statistics](../docs/figures/basic.jpg)
+
+#### Distribution of Labels across Subsets
 ![Distribution of Labels across Subsets](../docs/figures/data-statistic.png){width=300px}
 
+#### Co-occurrence of Sentiment and Metaphor Types
 ![Co-occurrence of Sentiment and Metaphor Types](../docs/figures/heatmap.jpg){width=300px}  
 
+#### High-frequency S and T across Different Sentiment Polarities
 ![High-frequency S and T across Different Sentiment Polarities](../docs/figures/sentiment-component.jpg)
 
+#### Gender-Based Patterns in Metaphors
 ![Gender-Based Patterns in Metaphors](../docs/figures/male-female.png){width=300px}
 
 ---
